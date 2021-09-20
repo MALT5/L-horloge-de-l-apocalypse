@@ -6,7 +6,7 @@
 - Quoi
 - Comment
 - Pourquoi
-Un lien: [Mon lien](https://www.example.com)Une image: ![](image.jpg)
+Un lien: [Mon lien](https://www.example.com)Une image: !![alt text](image.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
