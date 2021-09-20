@@ -13,6 +13,6 @@ Une image: !![alt text](image.jpg)
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-- [x] Write the press release
+- [ ] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
