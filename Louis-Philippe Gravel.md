@@ -12,6 +12,6 @@ Un lien: [Mon lien](https://www.example.com)Une image: (image.jpg)
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
- Write the press release
- Update the website
- Contact the media
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
