@@ -6,7 +6,7 @@
 -Quoi
 -Comment
 -Pourquoi
-Un lien: Mon lien Une image: alt text
+Un lien: [Mon lien](https://www.example.com)Une image: alt text
 
 Syntax	Description
 Header	Title
