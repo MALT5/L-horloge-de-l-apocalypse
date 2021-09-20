@@ -1,5 +1,5 @@
-#Alo
+# Alo
 **tsup big**
-1.bruh
-2.bhur
-3.ou ou ahahahaha
+- bruh
+- bhur
+- ou ou ahahahaha
