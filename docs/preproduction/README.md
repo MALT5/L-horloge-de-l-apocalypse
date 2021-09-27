@@ -26,7 +26,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
- ![jamboard](medias/Brainstorm projet fin de session 1.png)
+ ![jamboard](C:\Users\trist\Documents\GitHub\L-horloge-de-l-apocalypse\docs\preproduction\medias\Brainstorm projet fin de session 1.png)
 
 
 ## Intention de départ
