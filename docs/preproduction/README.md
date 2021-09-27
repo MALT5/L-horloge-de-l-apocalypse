@@ -30,7 +30,8 @@
 
 
 ## Intention de départ
-Ce projet, représente la fragilité du temps mais aussi l'importance de chaque action et choix.
+Ce projet représente l'impact collectif sur les événements socio-politique et environnementaux qui ce produisent tout au long du temps de l'humanité.
+
 
 ## Synopsis
 L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater que le monde va mal et qu'il est temps d'agir. 
@@ -47,6 +48,7 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+![scenarimage](medias/scenarimage.png)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
