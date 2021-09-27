@@ -39,6 +39,7 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+![moodboard](medias/moodboard.png)
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
