@@ -29,4 +29,3 @@ Projet final TIM.
 ### cartographie
 
 <img src= 'https://th.bing.com/th/id/OIP.-06ZDXRjMtoGXYSCpDlunwHaEK?pid=ImgDet&rs=1' ><img>
-<img src='https://c.tenor.com/o9bbZuiIt0AAAAAd/amogus.gif'><img>
