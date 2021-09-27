@@ -33,9 +33,9 @@
 Ce projet, représente la fragilité du temps mais aussi l'importance de chaque action et choix.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater que le monde va mal et qu'il est temps d'agir. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse. 
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
