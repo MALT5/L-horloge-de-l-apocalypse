@@ -27,12 +27,10 @@
 ## Cartographie
 > Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Ce projet, représente la fragilité du temps mais aussi l'importance de chaque action et choix.
 
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
