@@ -26,7 +26,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
-(docs/preproduction/medias/Brainstorm projet fin de session 1.png)
+ [jamboard](medias/Brainstorm projet fin de session 1.png)
 
 
 ## Intention de départ
