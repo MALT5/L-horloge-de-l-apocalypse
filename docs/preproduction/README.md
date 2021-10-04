@@ -47,6 +47,14 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel
+Scénario:
+
+Introduction: Un narrateur explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
+
+Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. 
+
+Conclusion: 
+
 
 ![scenarimage](medias/scenarimage.png)
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
