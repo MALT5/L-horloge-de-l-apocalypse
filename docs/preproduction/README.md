@@ -49,8 +49,6 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 ## Scénario, scénarimage ou document audio/visuel
 
 ![scenarimage](medias/scenarimage.png)
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
-![scenarimage](medias/scenarimage.png)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
