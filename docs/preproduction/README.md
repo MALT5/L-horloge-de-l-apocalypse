@@ -39,13 +39,19 @@ L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aig
 Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse. 
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+
 ![moodboard](medias/moodboard_general.png)
 ![moodboard](medias/moodboard_1h-3h.png)
+![moodboard](medias/moodboard_4h-6h)
+![moodboard](medias/moodboard_7h-9h)
+![moodboard](medias/moodboard_10h-12h)
+![moodboard](medias/moodboard_style_collage.png)
+![moodboard](medias/moodboard_eclairage.png)
 ![moodboard](medias/moodboard_horloge)
 ![moodboard](medias/moodboard_piedestale)
+![moodboard](medias/moodboard_conclusion)
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
+
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
@@ -54,9 +60,9 @@ Scénario:
 
 Introduction: Un narrateur explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
 
-Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. 
+Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représente l'évolution de l'humanité à travers le temps, qui se dégrade plus le temps avance.
 
-Conclusion: 
+Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agir. 
 
 
 ![scenarimage](medias/scenarimage.png)
