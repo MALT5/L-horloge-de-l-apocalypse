@@ -73,7 +73,7 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![Plantation](medias/plantation.png)
 
 ### Schéma de branchement 
 
@@ -83,10 +83,12 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Piédestal romain
+    * Mesures
+
+* Horloge 
+    * Chiffres romains
+
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -125,36 +127,41 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* nodeJS
+* Max 8
+* Photoshop
+* After Effects
+* MadMapper
+* Arduino
+* OBS Studio
+* GitHub Desktop
+* Davinci Resolve
+
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Professeurs de techniques pour assistance
+* Membres de l'équipe
+
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+    * Projection vidéo
+    * Captation vidéo
+    * Lumières
 
-* Petit studio
-    * Enregsitrement audio
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Code Arduino de l'horloge qui ne fonctionne pas | Demander de l'aide au professeur ou sur l'Internet| Sinon, nous pourrions trouver une alternative à l'interactivité |
+| Gestion du temps | Mieux planifier le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. |                                           |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
