@@ -69,7 +69,7 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
 
