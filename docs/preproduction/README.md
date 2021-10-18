@@ -83,6 +83,9 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
+* Téléphone
+    * à roulette
+
 * Piédestal romain
     * Mesures
 
@@ -94,17 +97,18 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
+    * 4 haut-parleurs actifs de 4"
+    * 8 fils XLR 3 conducteurs de 15' (M->F) 
     * Interface audio USB disposant 8 sorties 
 
 * Vidéo
     * 2 projecteurs vidéo lentille standard
     * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 1 webcam logitech c920
 
 * Lumière
     * 4 lumière LED RGBAW DMX
+    * un spotlight
     * 4 fils XLR 3 conducteurs de 20'
     * Console DMX
     * Interface DMX USB
@@ -119,10 +123,15 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
     * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 ordinateur de l'école ou 2 si le premier ne suffit pas 
+    * 2 micro-ordinateur (Arduino)
     
 * Autre
     * Tout autre élément pertinant
+    * capteur de mouvement (kinect) pour le spotlight
+    * 1 potentiomètre
+    * 1 photorésistance
+    * 1 bouton
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
