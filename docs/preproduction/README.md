@@ -77,7 +77,7 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![exemple de schema](medias/branchement.png)
 
 ## Matériel de scénographie requis
 
@@ -97,41 +97,41 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F) 
-    * Interface audio USB disposant 8 sorties 
+    * 4 haut-parleurs 
+    * 8 fils XLR 3 
+    * focusright carte de son
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
+    * 4 projecteurs vidéo lentille standard
+    * 4 système d'acrochage
     * 1 webcam logitech c920
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
+ 
     * un spotlight
-    * 4 fils XLR 3 conducteurs de 20'
+    * 2 fils XLR 3 conducteurs de 20'
     * Console DMX
     * Interface DMX USB
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
+    * 8 cordons IEC (pour l'alimentation des haut-parleurs)
+    * 2 extensions 3 fiches et 3 conducteurs 
     * 2 multiprise
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+    * 5 fils ethernet
 
 * Ordinateur
     * 1 ordinateur de l'école ou 2 si le premier ne suffit pas 
     * 2 micro-ordinateur (Arduino)
     
 * Autre
-    * Tout autre élément pertinant
+    * Tout autre élément pertinent
     * capteur de mouvement (kinect) pour le spotlight
     * 1 potentiomètre
     * 1 photorésistance
     * 1 bouton
+    * 8 safety
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
