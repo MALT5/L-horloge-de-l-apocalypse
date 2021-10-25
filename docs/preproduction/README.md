@@ -218,7 +218,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxiS92+is%3Aopen
 
-https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er+assignee%3Amaxime26tim+assignee%3Amaxis92
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Amaxis92
 
 **Maxime De Falco**
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
@@ -228,7 +228,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxime26tim+is%3Aopen
 
-https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er++assignee%3Amaxis92
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Amaxime26tim
 
 **Alexis Lacasse**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
@@ -239,7 +239,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aalxi21+is%3Aopen
 
-https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er++assignee%3Amaxis92+assignee%3Aalxi21+assignee%3Aboub229
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Aalxi21
 
 **Tritan Girard-Montpetit**
 - Création des images;
