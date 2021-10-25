@@ -201,7 +201,6 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues
 
 **Louis-Philippe Gravel**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
 
 Liste des tâches dans Git Hub:  
@@ -223,7 +222,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 **Maxime De Falco**
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
+- Programmation du module de diffusion via OBS
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxime26tim+is%3Aopen
@@ -232,9 +231,9 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 
 **Alexis Lacasse**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
+- Création des textes
 - Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
+
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aalxi21+is%3Aopen
@@ -243,9 +242,8 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 
 **Tritan Girard-Montpetit**
 - Création des images;
-- Création des icônes de navigation;
 - Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+- Programmation du module Max de contrôle de la navigation utilisateur.
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aboub229+is%3Aopen
