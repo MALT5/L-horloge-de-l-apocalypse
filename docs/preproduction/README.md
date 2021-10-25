@@ -199,53 +199,53 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
+**Louis-Philippe Gravel**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3ALouis1er+is%3Aopen
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er
 
-**Étudiant D**
+**Maxime Sabourin**
 - Comité Technique et coordination technique (suivi du devis technique);
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxiS92+is%3Aopen
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er+assignee%3Amaxime26tim+assignee%3Amaxis92
 
-**Étudiant C**
+**Maxime De Falco**
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxime26tim+is%3Aopen
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er++assignee%3Amaxis92
 
-**Étudiant B**
+**Alexis Lacasse**
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des textes poétiques;
 - Création des vidéos d'animation 2D;
 - Programmation du module Unity d'effets visuels et intégration dans Max.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aalxi21+is%3Aopen
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er++assignee%3Amaxis92+assignee%3Aalxi21+assignee%3Aboub229
 
-**Étudiant A**
+**Tritan Girard-Montpetit**
 - Création des images;
 - Création des icônes de navigation;
 - Programmation du module Max d'éclairage;
 - Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aboub229+is%3Aopen
+https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Aboub229
 
 **Tâches pas encore attribuées**  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
