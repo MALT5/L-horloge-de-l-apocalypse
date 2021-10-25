@@ -206,6 +206,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3ALouis1er+is%3Aopen
+
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er
 
 **Maxime Sabourin**
@@ -216,6 +217,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxiS92+is%3Aopen
+
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er+assignee%3Amaxime26tim+assignee%3Amaxis92
 
 **Maxime De Falco**
@@ -225,6 +227,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxime26tim+is%3Aopen
+
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er++assignee%3Amaxis92
 
 **Alexis Lacasse**
@@ -235,6 +238,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aalxi21+is%3Aopen
+
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er++assignee%3Amaxis92+assignee%3Aalxi21+assignee%3Aboub229
 
 **Tritan Girard-Montpetit**
@@ -245,6 +249,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aboub229+is%3Aopen
+
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Aboub229
 
 **Tâches pas encore attribuées**  
