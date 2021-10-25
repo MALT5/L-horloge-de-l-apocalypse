@@ -170,7 +170,8 @@ Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agi
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Code Arduino de l'horloge qui ne fonctionne pas | Demander de l'aide au professeur ou sur l'Internet| Sinon, nous pourrions trouver une alternative à l'interactivité |
-| Gestion du temps | Mieux planifier le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. |                                           |                                                       |                                                                                              |
+| Gestion du temps | Mieux planifier le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. 
+| Trouver les éléments du décor. | Les remplacer par d'autres objets qui pourront remplir les mêmes fonctions  | Trouver des éléments à acheter en ligne pas trop loin de chez nous.                                       |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
