@@ -58,11 +58,11 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 ## Scénario, scénarimage ou document audio/visuel
 Scénario:
 
-Introduction: Un narrateur explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
+Introduction: Un narrateur enfant explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
 
-Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représente l'évolution de l'humanité à travers le temps, qui se dégrade plus le temps avance.
+Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représente l'évolution d'une plaine au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion total.
 
-Conclusion: Un message est projeté sur le mur: Il est 11h58, il est temps d'agir. 
+Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur appelera au téléphone et expliquera de façon poétique qu'il est temps d'agir. La personne sera filmé autour d'elle avec les 3 projections.
 
 
 ![scenarimage](medias/scenarimage.png)
