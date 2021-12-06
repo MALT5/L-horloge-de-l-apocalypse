@@ -26,7 +26,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
- ![jamboard](medias/jboard.png)
+ ![jamboard](01_medias/jboard.png)
 
 
 ## Intention de départ
@@ -40,16 +40,16 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 
 ## Tableau d'ambiance (*moodboard*)
 
-![moodboard](medias/moodboard_general.png)
-![moodboard](medias/moodboard_1h-3h.png)
-![moodboard](medias/moodboard_4h-6h)
-![moodboard](medias/moodboard_7h-9h)
-![moodboard](medias/moodboard_10h-12h)
-![moodboard](medias/moodboard_style_collage.png)
-![moodboard](medias/moodboard_eclairage.png)
-![moodboard](medias/moodboard_horloge)
-![moodboard](medias/moodboard_piedestale)
-![moodboard](medias/moodboard_conclusion)
+![moodboard](01_medias/moodboard_general.png)
+![moodboard](01_medias/moodboard_1h-3h.png)
+![moodboard](01_medias/moodboard_4h-6h)
+![moodboard](01_medias/moodboard_7h-9h)
+![moodboard](01_medias/moodboard_10h-12h)
+![moodboard](01_medias/moodboard_style_collage.png)
+![moodboard](01_medias/moodboard_eclairage.png)
+![moodboard](01_medias/moodboard_horloge)
+![moodboard](01_medias/moodboard_piedestale)
+![moodboard](01_medias/moodboard_conclusion)
 
 
 
@@ -65,7 +65,7 @@ Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour f
 Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur appelera au téléphone et expliquera de façon poétique qu'il est temps d'agir. La personne sera filmé autour d'elle avec les 3 projections.
 
 
-![scenarimage](medias/scenarimage.png)
+![scenarimage](01_medias/scenarimage.png)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -73,11 +73,11 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 
 ### Plantation 
 
-![Plantation](medias/plantation.png)
+![Plantation](01_medias/plantation.png)
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/branchement.png)
+![exemple de schema](01_medias/branchement.png)
 
 ## Matériel de scénographie requis
 
@@ -175,7 +175,7 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget.png)
+![Budget prévisionnel](01_medias/budget.png)
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
