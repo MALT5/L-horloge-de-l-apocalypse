@@ -70,7 +70,7 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 *  12 photoshop de plaine
-*  13 after effects des
+*  13 after effects des scènes
 *  Effets sonores
 *  12 musiques reliés aux scènes
 *  4 textes pour les scènes d'intro et de fin
