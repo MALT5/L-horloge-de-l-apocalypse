@@ -76,9 +76,16 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 *  4 textes pour les scènes d'intro et de fin
 *  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
+Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
+
 ## Univers artistique des éléments
 
-    
+*  Horloge : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikea.com%2Fca%2Ffr%2Fp%2Ftjalla-horloge-murale-80357878%
+
+* Téléphone : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.ca%2Fitm%2F113658824204&psig=AOvVaw1kWxdNjVPTvC-Xngt2qiIv&ust=1638914184210000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjhr5-V0PQCFQAAAAAdAAAAABAG
+
+* Piédestal : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.homedepot.ca%2Fproduit%2Funiquewise-decor-blanc-en-fibre-de-verre-de-style-romain-colonne-piedestal-presentoir-vase-de-fleurs-47-5-%2F1001614852&psig=AOvVaw2uyYwl_OjJhll74_MZ1QN4&ust=1638911411707000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDap_WK0PQCFQAAAAAdAAAAABAE
+
 
 
 # Planification technique d'un prototype (devis technique)
@@ -199,8 +206,8 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
+- Première itération : lundi 8 novembre
+- Prototype finale : lundi 13 décembre
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
@@ -272,4 +279,4 @@ Hebdomadaire
 - **1 jour (jeudi) 20-30 min** : Rencontre de suivi de projet.
 
 Autre: 
-- **"y" jour 1h** : Rencontre de suivi de projet.
+- **"lundi" jour 1h** : Rencontre de suivi de projet.
