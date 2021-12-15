@@ -67,6 +67,20 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 
 ![scenarimage](01_medias/scenarimage.png)
 
+# Contenu multimédia à intégrer
+## Inventaire du contenu multimédia
+*  12 photoshop de plaine
+*  13 after effects des
+*  Effets sonores
+*  12 musiques reliés aux scènes
+*  4 textes pour les scènes d'intro et de fin
+*  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
+
+## Univers artistique des éléments
+
+    
+
+
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette section.  
