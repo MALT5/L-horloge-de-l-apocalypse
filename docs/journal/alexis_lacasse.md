@@ -1,5 +1,5 @@
 # Journal de Alexis Lacasse
-![portrait du participant ](../web/medias/participants/C.png)
+![portrait du participant ](../web/medias/participants/alexis.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
