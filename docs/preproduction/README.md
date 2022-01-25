@@ -229,6 +229,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues
 **Louis-Philippe Gravel**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Programmation du module Max de contrôle vidéo.
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3ALouis1er+is%3Aopen
