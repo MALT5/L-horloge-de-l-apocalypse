@@ -33,13 +33,13 @@
 
 
 ## Intention de départ
-Ce projet représente l'impact collectif sur les événements socio-politique et environnementaux qui ce produisent tout au long du temps de l'humanité.
+Ce projet représente l'impact collectif sur les événements socio-politiques et environnementaux qui se produisent tout au long du temps de l'humanité.
 
 
 ## Synopsis
-L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater que le monde va mal et qu'il est temps d'agir. 
+L'interacteur arrive dans une salle, il a la possibillité de jouer avec les aiguilles de l'horloge pour faire avancer ou reculer le temps et ainsi constater les changements négatifs et qu'il est temps d'agir. 
 
-Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse. 
+Le public est appelé à se rendre compte du peu de temps qu'il reste à l'humanité selon l'horloge de l'apocalypse. 
 
 ## Tableau d'ambiance (*moodboard*)
 
@@ -61,21 +61,24 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 ## Scénario, scénarimage ou document audio/visuel
 Scénario:
 
-Introduction: Un narrateur enfant explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
+Introduction: Le spectateur entre dans la salle et un narrateur enfant explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
 
-Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représente l'évolution d'une plaine au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion total.
+Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représentent l'évolution d'une plaine sur 12 scènes au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion totale.
 
-Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur appelera au téléphone et expliquera de façon poétique qu'il est temps d'agir. La personne sera filmé autour d'elle avec les 3 projections.
+Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après quelques secondes, les projecteurs s'éteignent.
 
 
-![scenarimage](01_medias/scenarimage.png)
+![scenarimage global](01_medias/scenarimage.png)
+![scenarimage partie 1](01_medias/plan_de_test/scénario_01.png)
+![scenarimage partie 2](01_medias/plan_de_test/scénario_02.png)
+![scenarimage partie 3](01_medias/plan_de_test/scénario_03.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 *  12 photoshop de plaine
 *  13 after effects des scènes
 *  Effets sonores
-*  12 musiques reliés aux scènes
+*  12 trames sonores reliés aux scènes
 *  4 textes pour les scènes d'intro et de fin
 *  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
@@ -226,6 +229,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues
 **Louis-Philippe Gravel**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Programmation du module Max de contrôle vidéo.
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3ALouis1er+is%3Aopen
@@ -233,9 +237,10 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3ALouis1er+
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Alouis1er
 
 **Maxime Sabourin**
-- Comité Technique et coordination technique (suivi du devis technique);
+- Comité de communication.
+- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
 - Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
+- Création de certains paysages d'animation 2D et photoshop;
 - Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
@@ -246,7 +251,8 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 **Maxime De Falco**
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
-- Programmation du module de diffusion via OBS
+- Programmation du module de diffusion via OBS;
+- Installation de l'équipement dans l'espace physique.
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxime26tim+is%3Aopen
@@ -254,9 +260,11 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3AMaxime26t
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Amaxime26tim
 
 **Alexis Lacasse**
+- Comité Technique et coordination technique (suivi du devis technique);
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes
-- Création des vidéos d'animation 2D;
+- Création des textes;
+- Création de certains paysages d'animation 2D et photoshop;
+- Installation de l'équipement dans l'espace physique.
 
 
 Liste des tâches dans Git Hub:  
@@ -265,9 +273,11 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aalxi21+is
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Aalxi21
 
 **Tritan Girard-Montpetit**
-- Création des images;
+- Lead programmer
 - Programmation du module Max d'éclairage;
 - Programmation du module Max de contrôle de la navigation utilisateur.
+- Installation de l'équipement dans l'espace physique.
+- Création de certains paysages d'animation 2D et photoshop.
 
 Liste des tâches dans Git Hub:  
 https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aboub229+is%3Aopen
