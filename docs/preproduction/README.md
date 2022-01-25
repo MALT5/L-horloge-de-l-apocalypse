@@ -68,7 +68,10 @@ Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour f
 Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après quelques secondes, les projecteurs s'éteignent.
 
 
-![scenarimage](01_medias/scenarimage.png)
+![scenarimage global](01_medias/scenarimage.png)
+![scenarimage partie 1](01_medias/plan_de_test/scénario_01.png)
+![scenarimage partie 2](01_medias/plan_de_test/scénario_02.png)
+![scenarimage partie 3](01_medias/plan_de_test/scénario_03.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
