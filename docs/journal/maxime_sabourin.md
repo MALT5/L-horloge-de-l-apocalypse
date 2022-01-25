@@ -1,4 +1,4 @@
-# Journal de "Participant 1"
+# Journal de "Maxime Sabourin"
 ![portrait du participant ](../web/medias/participants/A.png)
 
 * [Semaine 1](#semaine-1)
