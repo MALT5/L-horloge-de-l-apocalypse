@@ -18,7 +18,7 @@
 - début de la session
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/vs.png)
+![ici est une description de l'image](medias/vs.PNG)
 
 
 
