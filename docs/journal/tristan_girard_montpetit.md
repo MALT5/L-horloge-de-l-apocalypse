@@ -1,5 +1,5 @@
 # Journal de Tristan Girard-Montpetit
-![portrait du participant ](../web/medias/participants/moé.png)
+![portrait du participant ](../web/medias/participants/moé.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
