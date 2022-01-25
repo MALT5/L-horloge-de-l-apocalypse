@@ -1,5 +1,5 @@
 # Journal de Maxime Sabourin
-![portrait du participant ](../web/medias/participants/sabourin.png)
+![portrait du participant ](../web/medias/participants/sabourin.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
