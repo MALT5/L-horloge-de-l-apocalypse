@@ -273,7 +273,6 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/issues?q=assignee%3Aalxi21+is
 https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=assignee%3Aalxi21
 
 **Tritan Girard-Montpetit**
-- Création des images;
 - Programmation du module Max d'éclairage;
 - Programmation du module Max de contrôle de la navigation utilisateur.
 - Installation de l'équipement dans l'espace physique.
