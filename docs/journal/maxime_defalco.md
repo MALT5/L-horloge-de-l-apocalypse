@@ -1,5 +1,5 @@
-# Journal de "Participant 4"
-![portrait du participant ](../web/medias/participants/D.png)
+# Journal de Maxime De Falco
+![portrait du participant ](../web/medias/participants/E.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
