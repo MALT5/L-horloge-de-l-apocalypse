@@ -61,11 +61,11 @@ Le public est appelé à réaliser le peu de temps qu'il reste à l'humanité se
 ## Scénario, scénarimage ou document audio/visuel
 Scénario:
 
-Introduction: Un narrateur enfant explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
+Introduction: Le spectateur entre dans la salle et un narrateur enfant explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
 
-Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représente l'évolution d'une plaine au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion total.
+Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représentent l'évolution d'une plaine sur 12 scènes au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion totale.
 
-Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur appelera au téléphone et expliquera de façon poétique qu'il est temps d'agir. La personne sera filmé autour d'elle avec les 3 projections.
+Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après quelques secondes, les projecteurs s'éteignent.
 
 
 ![scenarimage](01_medias/scenarimage.png)
@@ -75,7 +75,7 @@ Conclusion: Quand l'horloge atteint minuit un téléphone sonne. Un narrateur ap
 *  12 photoshop de plaine
 *  13 after effects des scènes
 *  Effets sonores
-*  12 musiques reliés aux scènes
+*  12 trames sonores reliés aux scènes
 *  4 textes pour les scènes d'intro et de fin
 *  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
