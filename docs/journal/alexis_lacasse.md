@@ -22,7 +22,7 @@
 ![image de journal 1 ](medias/journal_lacasse.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -35,7 +35,7 @@
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -47,7 +47,7 @@
 
 
 ### Défis pour la prochaine semaine
-
+- Finaliser la préproduction
 
 ---
 ## Semaine 2
