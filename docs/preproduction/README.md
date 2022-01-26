@@ -242,7 +242,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 **Maxime Sabourin**
 - Comité de communication.
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des paysages sonores sonores;
+- Création des paysages sonores;
 - Création de certains paysages d'animation 2D et photoshop;
 - Installation de l'équipement dans l'espace physique.
 
