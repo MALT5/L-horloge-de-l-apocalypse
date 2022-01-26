@@ -65,7 +65,7 @@ Introduction: Le spectateur entre dans la salle et un narrateur enfant explique 
 
 Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représentent l'évolution d'une plaine sur 12 scènes au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion totale.
 
-Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après quelques secondes, les projecteurs s'éteignent.
+Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après un certain temps, les projecteurs s'éteignent.
 
 
 ![scenarimage global](01_medias/scenarimage.png)
