@@ -85,12 +85,11 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ## Univers artistique des éléments
 
-*  Horloge : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ikea.com%2Fca%2Ffr%2Fp%2Ftjalla-horloge-murale-80357878%
+*  Horloge :  ![horloge](01_medias/horloge.png)
 
-* Téléphone : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.ca%2Fitm%2F113658824204&psig=AOvVaw1kWxdNjVPTvC-Xngt2qiIv&ust=1638914184210000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjhr5-V0PQCFQAAAAAdAAAAABAG
+* Téléphone : ![Téléphone](01_medias/telephone.png)
 
-* Piédestal : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.homedepot.ca%2Fproduit%2Funiquewise-decor-blanc-en-fibre-de-verre-de-style-romain-colonne-piedestal-presentoir-vase-de-fleurs-47-5-%2F1001614852&psig=AOvVaw2uyYwl_OjJhll74_MZ1QN4&ust=1638911411707000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDap_WK0PQCFQAAAAAdAAAAABAE
-
+* Piédestal : ![Piédestal](01_medias/colone.jpg)
 
 
 # Planification technique d'un prototype (devis technique)
