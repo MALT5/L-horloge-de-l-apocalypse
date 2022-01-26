@@ -290,7 +290,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **1 jour (jeudi) 20-30 min** : Rencontre de suivi de projet.
+- **1 jour (mardi) 20-30 min** : Rencontre de suivi de projet.
 
 Autre: 
-- **"lundi" jour 1h** : Rencontre de suivi de projet.
+- **"jeudi" jour 1h** : Rencontre de suivi de projet.
