@@ -17,7 +17,8 @@
 ### Résumé des réalisations effectuées
 - Aquisition du journal.
 - Début de rédaction du journal.
-- Composition sonore et musicale pour les 12 scènes.
+- Correction et finalisation de la préproduction sur Github
+- Enregistrement de la vidéo explicative de la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Journal de Maxime Sabourin](medias/journal_sabourin.png)
