@@ -65,7 +65,7 @@ Introduction: Le spectateur entre dans la salle et un narrateur enfant explique 
 
 Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représentent l'évolution d'une plaine sur 12 scènes au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion totale.
 
-Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après quelques secondes, les projecteurs s'éteignent.
+Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après un certain temps, les projecteurs s'éteignent.
 
 
 ![scenarimage global](01_medias/scenarimage.png)
@@ -75,11 +75,10 @@ Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décom
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
-*  12 photoshop de plaine
-*  13 after effects des scènes
-*  Effets sonores
-*  12 trames sonores reliés aux scènes
-*  4 textes pour les scènes d'intro et de fin
+*  12 animations conçues avec after effects (1 par scène)
+*  2 animations supplémentaires conçues avec after effects (scène d'introduction et scène finale)
+*  Effets sonores divers pour la scène d'introduction et la scène finale
+*  12 trames sonores (1 par scène), le tout est évolutif
 *  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
@@ -214,6 +213,8 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 *Dates importantes :*
 - Première itération : lundi 8 novembre
 - Prototype finale : lundi 13 décembre
+- Production : Vendredi 11 Mars
+- Installation : Vendredi 11 Mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
@@ -289,7 +290,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3A
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **1 jour (jeudi) 20-30 min** : Rencontre de suivi de projet.
+- **1 jour (mardi) 20-30 min** : Rencontre de suivi de projet.
 
 Autre: 
-- **"lundi" jour 1h** : Rencontre de suivi de projet.
+- **"jeudi" jour 1h** : Rencontre de suivi de projet.

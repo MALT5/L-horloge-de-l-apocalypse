@@ -15,7 +15,11 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- début de la session
+- Début de la session
+- Recherche d'un horloge et d'un piedestale
+- Trouver un téléphone ancien
+- Début du Journal
+- Titre pour Projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/vs.PNG)
@@ -23,31 +27,32 @@
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+Car en plus d'avoir réussi les objectifs fixer par les professeurs nous avons pris de l'avance en allant à la recherche de nos objets ainsi que bien avancer notre préprod.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y eu certain écarts car après plusieurs heures de travail. Tout le monde à commencer dans toutes les sens mais nous avons vites repris la situation en main.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Seulement prendre plus de poses éviter les longues périodes de travails sans pose.
 
 ### Défis pour la prochaine semaine
+Aller chercher le piedestale car la pluspart son très loin.
 
 ---
 ## Semaine 2
