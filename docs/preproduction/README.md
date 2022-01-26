@@ -188,8 +188,8 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 * Grand studio
     * Projection vidéo
-    * Captation vidéo
-    * Lumières
+    * Installation de lumières
+    * Installation de l'oeuvre
 
 
 ## Contraintes techniques et potentiels problèmes de production
