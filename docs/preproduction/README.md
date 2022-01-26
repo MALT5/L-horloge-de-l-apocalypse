@@ -85,11 +85,14 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ## Univers artistique des éléments
 
-* Horloge :  ![horloge](01_medias/horloge.jpg)
+## Horloge
+![horloge](01_medias/horloge.jpg)
 
-* Téléphone : ![Téléphone](01_medias/telephone.png)
+## Téléphone
+![Téléphone](01_medias/telephone.png)
 
-* Piédestal : ![Piédestal](01_medias/colone.jpg)
+## Piédestal
+![Piédestal](01_medias/colone.jpg)
 
 
 # Planification technique d'un prototype (devis technique)
