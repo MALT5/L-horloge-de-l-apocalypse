@@ -213,10 +213,10 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 
 *Dates importantes :*
-- Première itération : lundi 8 novembre
-- Prototype finale : lundi 13 décembre
-- Production : Vendredi 11 Mars
-- Installation : Vendredi 11 Mars
+- Première itération : lundi 8 novembre 2021
+- Prototype finale : lundi 13 décembre2021
+- Production : Vendredi 11 Mars 2022
+- Installation : Vendredi 11 Mars 2022
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
