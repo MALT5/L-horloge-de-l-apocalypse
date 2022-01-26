@@ -76,7 +76,7 @@ Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décom
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 *  12 animations conçues avec after effects (1 par scène)
-*  2 animations supplémentaires conçues avec after effects (scène d'introduction et scène finale)
+*  1 animations supplémentaires conçues avec after effects pour la scène finale
 *  Effets sonores divers pour la scène d'introduction et la scène finale
 *  12 trames sonores (1 par scène), le tout est évolutif
 *  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
