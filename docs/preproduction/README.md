@@ -85,7 +85,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ## Univers artistique des éléments
 
-*  Horloge :  ![horloge](01_medias/horloge.png)
+* Horloge :  ![horloge](01_medias/horloge.jpg)
 
 * Téléphone : ![Téléphone](01_medias/telephone.png)
 
