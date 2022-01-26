@@ -75,7 +75,7 @@ Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décom
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
-*  12 photoshop de plaine
+*  12 images conçues avec photoshop (1 par scène)
 *  13 after effects des scènes
 *  Effets sonores
 *  12 trames sonores reliés aux scènes
@@ -214,6 +214,8 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 *Dates importantes :*
 - Première itération : lundi 8 novembre
 - Prototype finale : lundi 13 décembre
+- Production : Vendredi 11 Mars
+- Installation : Vendredi 11 Mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
