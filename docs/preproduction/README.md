@@ -101,7 +101,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 ### Plantation 
 
-![Plantation](01_medias/plantation.PNG)
+![Plantation](01_medias/plantation.png)
 
 ### Schéma de branchement 
 
