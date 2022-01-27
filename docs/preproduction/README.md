@@ -130,9 +130,9 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * focusright carte de son
 
 * Vidéo
-    * 4 projecteurs vidéo lentille standard
-    * 4 système d'acrochage
-    * 1 webcam logitech c920
+    * 3 projecteurs vidéo lentille standard
+    * 3 système d'acrochage
+    * 1 caméra Sony a6500
 
 * Lumière
  
