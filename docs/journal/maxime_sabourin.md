@@ -24,30 +24,32 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Achat de l'horloge](medias/horloge_achat.jpg)
-![Abonnement Eastwest Composer Cloud](medias/eastwest.PNG)
+![Enregistrement de la video de la préproduction](medias/video_sabourin_preprod.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Nous nous sommes tout de suite mis au travail suite au premier cours du Mardi matin.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+L'abonnement Eastwest Composer Cloud coûte 25$ par mois. Le renouvellement est le 12 Février. Je vais donc me concentrer sur la composition de la trame sonore du projet afin d'avoir à payer l'abonnement sur un seul mois.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Si je vois qu'il y a d'autres tâches prioritaires, je payerai également l'abonnement pour le deuxième mois.
 
 ### Défis pour la prochaine semaine
+- Réaliser la composition de la trame sonore.
+- Finaliser la vidéo de préproduction.
 
 ---
 ## Semaine 2
