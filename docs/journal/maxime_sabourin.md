@@ -17,11 +17,14 @@
 ### Résumé des réalisations effectuées
 - Aquisition du journal.
 - Début de rédaction du journal.
-- Correction et finalisation de la préproduction sur Github
-- Enregistrement de la vidéo explicative de la préproduction
+- Correction et finalisation de la préproduction sur Github.
+- Enregistrement de la vidéo explicative de la préproduction.
+- Achat de l'horloge.
+- Abonnement à Eastwest Composer Cloud pour les instruments virtuels.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Journal de Maxime Sabourin](medias/journal_sabourin.png)
+![Achat de l'horloge](medias/horloge_achat.jpg)
+![Abonnement Eastwest Composer Cloud](medias/eastwest.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
