@@ -130,9 +130,9 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * focusright carte de son
 
 * Vidéo
-    * 4 projecteurs vidéo lentille standard
-    * 4 système d'acrochage
-    * 1 webcam logitech c920
+    * 3 projecteurs vidéo lentille standard
+    * 3 système d'acrochage
+    * 1 caméra Sony a6500
 
 * Lumière
  
@@ -213,10 +213,10 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 
 *Dates importantes :*
-- Première itération : lundi 8 novembre
-- Prototype finale : lundi 13 décembre
-- Production : Vendredi 11 Mars
-- Installation : Vendredi 11 Mars
+- Première itération : lundi 8 novembre 2021
+- Prototype finale : lundi 13 décembre 2021
+- Production : Vendredi 11 Mars 2022
+- Installation : Vendredi 11 Mars 2022
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
@@ -242,7 +242,7 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/projects/1?card_filter_query=
 **Maxime Sabourin**
 - Comité de communication.
 - Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des paysages sonores sonores;
+- Création des paysages sonores;
 - Création de certains paysages d'animation 2D et photoshop;
 - Installation de l'équipement dans l'espace physique.
 
