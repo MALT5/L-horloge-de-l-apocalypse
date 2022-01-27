@@ -24,7 +24,7 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Achat de l'horloge](medias/horloge_achat.jpg)
-![Abonnement Eastwest Composer Cloud](medias/eastwest.png)
+![Abonnement Eastwest Composer Cloud](medias/eastwest.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
