@@ -8,7 +8,7 @@ Au cours de cette semaine, nous avons acheté les différents éléments du déc
 
 ![ici est une description de l'image](medias/tel.jpg)
 
-![ici est une description de l'image](medias/horloge.PNG)
+![ici est une description de l'image](medias/horloge.png)
 
 Ensuite, nous avons aussi concrétisé certains points de la préproduction.
 
