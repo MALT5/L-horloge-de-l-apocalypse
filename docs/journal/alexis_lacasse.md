@@ -18,7 +18,8 @@
 - La session à débuté. 
 - Commencer le journal
 - Trouver l'équipement manquant
-- 
+- Séparation des parties de la préprod pour la présentation
+- Préparation de la vidéo de la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image de journal 1 ](medias/journal_lacasse.PNG)
@@ -30,10 +31,10 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+J'ai trouver assez de temps pour créé ma partie de vidéo pour la présentation de la préproduction. Mon équipe et moi avons fait une rencontre pour la séparation des parties. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -43,13 +44,13 @@
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-- Finaliser la préproduction
+- Continuer les planches photoshop des heures 4h-6h
 
 ---
 ## Semaine 2
