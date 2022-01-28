@@ -17,6 +17,8 @@
 ### Résumé des réalisations effectuées
 - La session à débuté. 
 - Commencer le journal
+- Trouver l'équipement manquant
+- 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image de journal 1 ](medias/journal_lacasse.PNG)
