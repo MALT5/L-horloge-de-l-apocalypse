@@ -15,27 +15,29 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Copier le repository de Malt5 sur mon ordinateur personel. 
-- Créé une arborescance dans notre repertoires github.
+- Copier le «repository» de Malt5 sur mon ordinateur personel. 
+- Créer une arborescence dans notre répertoire «github».
 - Effectuer un retour sur la préproduction en corrigeant les erreurs.
 - Acheter et chercher tout le décor pour notre expérience multimédia interactive.
 - Effectuer le montage pour la vidéo de la présentation de notre préproduction. 
 
-
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Acquisition du piédestal](medias/piedestale)
+![Acquisition du piédestal](medias/piedestale.jpg)
 ou
-![Montage de la vidéo de la préproduction](medias/montage_preproduction)
+![Montage de la vidéo de la préproduction](medias/montage_preproduction.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Je trouve que nous avons pris beaucoup d'avance cette semaine. Nous avons acheté et obtenu tout le matériel physique nécessaire pour créer le décor de notre expérience multimédia. De plus, la vidéo explicative est presque terminée. Nous avons d'ailleurs corrigé les erreurs dans la préproduction afin de donner une direction beaucoup plus claire au projet. En bref, mon équipe se dirige vers la même direction artistiquement et techniquement en faveur de notre projet. 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+N/A
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
@@ -46,13 +48,13 @@ ou
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Finaliser le montage pour la préproduction, effectuer le journal de bord, commencer si possible à effectuer l'installation de certains éléments dans l'espace physique (piédestal, horloge, lumière, caméra) et finalement entamer le son, les images Photoshop et scénariser la vidéo où l'on explique le concept de l'horloge de l'apocalypse.
 
 ---
 ## Semaine 2
