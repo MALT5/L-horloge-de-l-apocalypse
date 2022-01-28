@@ -17,7 +17,7 @@
 ### Résumé des réalisations effectuées
 - La session à débuté. 
 - Commencer le journal
-- Trouver l'équipement manquant
+- Modifier la plantation et le schéma de branchement dans le README.md de la préproduction
 - Séparation des parties de la préprod pour la présentation
 - Préparation de la vidéo de la préproduction
 
