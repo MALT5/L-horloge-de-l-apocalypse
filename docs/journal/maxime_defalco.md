@@ -15,22 +15,22 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Écrire dans le journal et push le commit en ligne. 
-- Ajouter des fichiers dans notre repertoires github.
-- 
+- Copier le repository de Malt5 sur mon ordinateur personel. 
+- Créé une arborescance dans notre repertoires github.
+- Effectuer un retour sur la préproduction en corrigeant les erreurs.
+- Acheter et chercher tout le décor pour notre expérience multimédia interactive.
+- Effectuer le montage pour la vidéo de la présentation de notre préproduction. 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/)
+![Acquisition du piédestal](medias/piedestale)
 ou
-![ici est une description de l'image](medias/)
-ou
-![ici est une description de l'image](medias/)
+![Montage de la vidéo de la préproduction](medias/montage_preproduction)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -40,8 +40,8 @@ ou
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
