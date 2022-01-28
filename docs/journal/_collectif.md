@@ -1,5 +1,24 @@
 # Journal de création
 
+## Semaine 1
+
+Au cours de cette semaine, nous avons acheté les différents éléments du décors. Nous avons donc acheté un piédestal et une horloge. Tristan a récupéré un téléphone à roulette chez lui. 
+
+![ici est une description de l'image](medias/piedestale.jpg)
+
+![ici est une description de l'image](medias/tel.jpg)
+
+![ici est une description de l'image](medias/horloge.PNG)
+
+Ensuite, nous avons aussi concrétisé certains points de la préproduction.
+
+![ici est une description de l'image](medias/git.jpg)
+
+Pour finir, nous nous sommes aussi filmés pour réaliser la vidéo explicative de la préproduction pour pouvoir faire un montage.
+
+![ici est une description de l'image](medias/montage_preproduction.PNG)
+
+
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
@@ -35,7 +54,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 2
 
-## Semaine 1
+
 
 
 
