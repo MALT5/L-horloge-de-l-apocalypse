@@ -8,7 +8,7 @@ Au cours de cette semaine, nous avons acheté les différents éléments du déc
 
 ![ici est une description de l'image](medias/tel.jpg)
 
-![ici est une description de l'image](medias/horloge.png)
+![ici est une description de l'image](medias/horloge.PNG)
 
 Ensuite, nous avons aussi concrétisé certains points de la préproduction.
 
@@ -16,7 +16,7 @@ Ensuite, nous avons aussi concrétisé certains points de la préproduction.
 
 Pour finir, nous nous sommes aussi filmés pour réaliser la vidéo explicative de la préproduction pour pouvoir faire un montage.
 
-![ici est une description de l'image](medias/montage_preproduction.png)
+![ici est une description de l'image](medias/montage_preproduction.PNG)
 
 
 ## Semaine 9
