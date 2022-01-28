@@ -21,7 +21,7 @@
 - Acheter et chercher tout le décor pour notre expérience multimédia interactive.
 - Effectuer le montage pour la vidéo de la présentation de notre préproduction. 
 
-### Image d'une réalisation dont tu es la ou le plus fier
+### Images des réalisations dont tu es le plus fier
 ![Acquisition du piédestal](medias/piedestale.jpg)
 ou
 ![Montage de la vidéo de la préproduction](medias/montage_preproduction.png)
@@ -43,7 +43,7 @@ N/A
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
-- [] Assez
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
