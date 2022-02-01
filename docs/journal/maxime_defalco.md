@@ -22,9 +22,9 @@
 - Effectuer le montage pour la vidéo de la présentation de notre préproduction. 
 
 ### Images des réalisations dont tu es le plus fier
-![Acquisition du piédestal](medias/piedestale.jpg)
+![Acquisition du piédestal](medias/MaximeD/Semaine1/piedestale.jpg)
 ou
-![Montage de la vidéo de la préproduction](medias/montage_preproduction.png)
+![Montage de la vidéo de la préproduction](medias/MaximeD/Semaine1/montage_preproduction.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
