@@ -61,11 +61,40 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 ## Scénario, scénarimage ou document audio/visuel
 Scénario:
 
-Introduction: Le spectateur entre dans la salle et un narrateur enfant explique le concept de l'horloge de l'apocalypse. Un projecteur s'ouvre sur l'horloge pour que le spectateur s'en approche.
+Scène 1 
+L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation.
 
-Déroulement: Le spectateur peut faire tourner les aiguilles de l'horloge pour faire avancer le temps de l'horloge de l'apocalypse. Les différentes heures représentent l'évolution d'une plaine sur 12 scènes au fil du temps pour montrer le destruction qui s'installe. Cette projection sera sur 3 murs pour une immersion totale.
+Scène 2
+Après quelques secondes, une vidéo apparait. Un narrateur explique le concept de l’horloge de l’apocalypse. Le narrateur voit une horloge sur les murs qui l’entourent et du texte qui s’affiche en bas de celle-ci. Plus la vidéo explicative de l’horloge avancera, plus les aiguilles de l’horloge avanceront vers minuit. 
+– Bienvenue!
+– Ce que vous avez devant vous est l’Horloge de l’apocalypse, un concept créé 1947 par les directeurs scientifiques atomiques de l’université de Chicago.  
+– L’horloge de l’Apocalypse représente la ligne du temps de l’humanité. 
+– En effet, la première heure de l’horloge souligne le début de l’humanité et la dernière représente la fin du monde autrement dit l’apocalypse.
+– Dans l’expérience qui suit, vous pourrez contrôler le temps en manipulant les aiguilles de l’horloge. 
+– Faites Attention! 
+– Si vous atteignez minuit, il ne sera plus possible de revenir en arrière, soyez vigilant!
+– Le destin de l’humanité est entre vos mains.
 
-Conclusion: Quand l'horloge atteint minuit, une courte vidéo montrant un décompte d'horloge est projetée puis un téléphone placé sur une table sonne. Le spectateur répond et le narrateur explique de façon poétique qu'il est temps d'agir. La personne est filmée par une caméra et son image est projetée tout autour d'elle avec les 3 projecteurs. Après un certain temps, les projecteurs s'éteignent.
+L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de la planète. 
+
+Scène 3
+L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations.  Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière. 
+Scène 4 
+Une vidéo apparait avec une horloge qui défile à toute allure vers minuit. Un message s’affiche ensuite. Une musique de suspense est jouée durant cette scène.
+– Nous sommes présentement à 23h58.
+– Ensemble! 
+– Il est temps d’agir! 
+– Pour sauver l’humanité!
+
+Scène 5
+Un son de téléphone est entendu. Lorsque l’interacteur prendra le téléphone, un bouton sera relâché et activera la prochaine scène et le narrateur.
+
+Scène 6
+L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé. Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. 
+– Vous seul pouvez faire une différence!
+– Vous avez le pouvoir de changer les choses!
+– À nous de remettre les pendules à l’heure!
+– À nous d’y mettre du cœur!
 
 
 ![scenarimage global](01_medias/scenarimage.png)
@@ -112,7 +141,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Téléphone
-    * à roulette
+    * À roulette
 
 * Piédestal romain
     * Mesures
