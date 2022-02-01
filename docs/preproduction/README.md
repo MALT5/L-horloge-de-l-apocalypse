@@ -164,7 +164,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* nodeJS
+
 * Max 8
 * Photoshop
 * After Effects
