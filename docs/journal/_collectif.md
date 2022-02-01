@@ -18,6 +18,11 @@ Pour finir, nous nous sommes aussi filmés pour réaliser la vidéo explicative 
 
 ![ici est une description de l'image](medias/montage_preproduction.PNG)
 
+## Semaine 2
+
+Au cours de cette semaine, nous avons réécrit le scénario pour guider notre production dans les semaines suivantes.
+
+![ici est une description de l'image](medias/scenario_updated.JPG)
 
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
@@ -52,7 +57,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 3
 
-## Semaine 2
+
 
 
 
