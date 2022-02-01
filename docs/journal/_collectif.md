@@ -28,6 +28,18 @@ De plus, nous avons terminé le montage final de la vidéo de la présentation d
 
 ![ici est une description de l'image](medias/Presentation_preproduction_video.png)
 
+Nous avons aussi fait une redirection artistique au niveau des photoshop afin de les rendre plus simples et professionnels
+
+Avant: ![ici est une description de l'image](medias/plaine_01.JPG)
+
+Après: ![ici est une description de l'image](medias/design_revamp.png)
+
+Nous avons aussi effectué des changements pour le schéma de branchement et plantation.
+
+![ici est une description de l'image](medias/branchement.png)
+
+![ici est une description de l'image](medias/plantation.png)
+
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
