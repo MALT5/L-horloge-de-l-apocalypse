@@ -23,8 +23,8 @@
 - Abonnement à Eastwest Composer Cloud pour les instruments virtuels.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Achat de l'horloge](medias/horloge_achat.jpg)
-![Enregistrement de la video de la préproduction](medias/video_sabourin_preprod.PNG)
+![Achat de l'horloge](medias/maxime_s/horloge_achat.jpg)
+![Enregistrement de la video de la préproduction](medias/maxime_s/video_sabourin_preprod.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
