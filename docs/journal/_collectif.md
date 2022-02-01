@@ -30,7 +30,7 @@ De plus, nous avons terminé le montage final de la vidéo de la présentation d
 
 Nous avons aussi fait une redirection artistique au niveau des photoshop afin de les rendre plus simples et professionnels
 
-Avant: ![ici est une description de l'image](medias/plaine_01.JPG)
+Avant: ![ici est une description de l'image](medias/plaine_01.jpg)
 
 Après: ![ici est une description de l'image](medias/design_revamp.png)
 
