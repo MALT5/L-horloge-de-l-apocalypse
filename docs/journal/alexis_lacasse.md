@@ -22,7 +22,7 @@
 - Préparation de la vidéo de la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image de journal 1 ](medias/journal_lacasse.PNG)
+![image de journal 1 ](medias/Alexis/Semaine1/journal_lacasse.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
@@ -58,7 +58,7 @@ N/A
 - Modifier le moodboard de style
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![moodboard style ](../preproduction/01_medias/moodboard_style_collage.png)
+![moodboard style ](medias/Alexis/Semaine2/moodboard_style_vecteur.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?

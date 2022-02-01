@@ -22,8 +22,8 @@
 - Titre pour Projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/vs.PNG)
-![ici est une description de l'image](medias/piedestale.jpg)
+![ici est une description de l'image](medias/Tristan/semaine1/vs.PNG)
+![ici est une description de l'image](medias/Tristan/semaine1/piedestale.jpg)
 
 
 
