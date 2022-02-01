@@ -24,6 +24,10 @@ Au cours de cette semaine, nous avons réécrit le scénario pour guider notre p
 
 ![ici est une description de l'image](medias/scenario_updated.JPG)
 
+De plus, nous avons terminé le montage final de la vidéo de la présentation de la préproduction pour l'évaluation formative de mercredi.
+
+![ici est une description de l'image](medias/Presentation_preproduction_video.png)
+
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
