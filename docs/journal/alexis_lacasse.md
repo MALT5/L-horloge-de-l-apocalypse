@@ -55,10 +55,10 @@ N/A
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Modifier le moodboard de style
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![moodboard style ](../preproduction/01_medias/moodboard_style_collage.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
