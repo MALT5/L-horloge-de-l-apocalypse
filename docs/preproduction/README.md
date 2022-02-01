@@ -142,7 +142,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Téléphone
-    * à roulette
+    * À roulette
 
 * Piédestal romain
     * Mesures
