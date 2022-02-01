@@ -58,7 +58,7 @@ N/A
 - Modifier le moodboard de style
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![moodboard style ](medias/Alexis/Semaine2/moodboard_style_collage.png)
+![moodboard style ](medias/Alexis/Semaine2/moodboard_style_vecteur.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
