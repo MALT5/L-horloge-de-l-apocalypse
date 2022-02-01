@@ -61,7 +61,6 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 ## Scénario, scénarimage ou document audio/visuel
 Scénario:
 
-
 Scène 1 
 L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation.
 
@@ -73,11 +72,10 @@ Après quelques secondes, une vidéo apparait. Un narrateur explique le concept 
 – En effet, la première heure de l’horloge souligne le début de l’humanité et la dernière représente la fin du monde autrement dit l’apocalypse.
 – Dans l’expérience qui suit, vous pourrez contrôler le temps en manipulant les aiguilles de l’horloge. 
 – Faites Attention! 
-– Si vous atteignez minuit, il ne sera plus possible de revenir en arrière.
-– Admirez l’humanité et soyez prudent! 
+– Si vous atteignez minuit, il ne sera plus possible de revenir en arrière, soyez vigilant!
 – Le destin de l’humanité est entre vos mains.
 
-L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de l’humanité. 
+L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de la planète. 
 
 Scène 3
 L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations.  Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière. 
@@ -97,6 +95,7 @@ L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour don
 – Vous avez le pouvoir de changer les choses!
 – À nous de remettre les pendules à l’heure!
 – À nous d’y mettre du cœur!
+
 
 ![scenarimage global](01_medias/scenarimage.png)
 ![scenarimage partie 1](01_medias/plan_de_test/scénario_01.png)
@@ -142,7 +141,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Téléphone
-    * à roulette
+    * À roulette
 
 * Piédestal romain
     * Mesures
