@@ -63,33 +63,35 @@ Finaliser le montage pour la préproduction, effectuer le journal de bord, comme
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Finalisation et exportation de la vidéo explicative de la préproduction](medias/MaximeD/Semaine2/Presentation_preproduction_video.png)
+ou
+![Rédaction du scénario](medias/MaximeD/Semaine2/scenario_updated.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
 
