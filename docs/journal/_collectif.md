@@ -4,41 +4,41 @@
 
 Au cours de cette semaine, nous avons acheté les différents éléments du décors. Nous avons donc acheté un piédestal et une horloge. Tristan a récupéré un téléphone à roulette chez lui. 
 
-![ici est une description de l'image](medias/piedestale.jpg)
+![ici est une description de l'image](medias/collectif/Semaine1/piedestale.jpg)
 
-![ici est une description de l'image](medias/tel.jpg)
+![ici est une description de l'image](medias/collectif/Semaine1/tel.jpg)
 
-![ici est une description de l'image](medias/horloge.png)
+![ici est une description de l'image](medias/collectif/Semaine1/horloge.png)
 
 Ensuite, nous avons aussi concrétisé certains points de la préproduction.
 
-![ici est une description de l'image](medias/git.JPG)
+![ici est une description de l'image](medias/collectif/Semaine1/git.JPG)
 
 Pour finir, nous nous sommes aussi filmés pour réaliser la vidéo explicative de la préproduction pour pouvoir faire un montage.
 
-![ici est une description de l'image](medias/montage_preproduction.png)
+![ici est une description de l'image](medias/collectif/Semaine1/montage_preproduction.png)
 
 ## Semaine 2
 
 Au cours de cette semaine, nous avons réécrit le scénario pour guider notre production dans les semaines suivantes.
 
-![ici est une description de l'image](medias/scenario_updated.JPG)
+![ici est une description de l'image](medias/collectif/Semaine2/scenario_updated.JPG)
 
 De plus, nous avons terminé le montage final de la vidéo de la présentation de la préproduction pour l'évaluation formative de mercredi.
 
-![ici est une description de l'image](medias/Presentation_preproduction_video.png)
+![ici est une description de l'image](medias/collectif/Semaine2/Presentation_preproduction_video.png)
 
 Nous avons aussi fait une redirection artistique au niveau des photoshop afin de les rendre plus simples et professionnels
 
-Avant: ![ici est une description de l'image](medias/plaine_01.jpg)
+Avant: ![ici est une description de l'image](medias/collectif/Semaine2/plaine_01.jpg)
 
-Après: ![ici est une description de l'image](medias/design_revamp.png)
+Après: ![ici est une description de l'image](medias/collectif/Semaine2/design_revamp.png)
 
 Nous avons aussi effectué des changements pour le schéma de branchement et plantation.
 
-![ici est une description de l'image](medias/branchement.png)
+![ici est une description de l'image](medias/collectif/Semaine2//branchement.png)
 
-![ici est une description de l'image](medias/plantation.png)
+![ici est une description de l'image](medias/collectif/Semaine2/plantation.png)
 
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
