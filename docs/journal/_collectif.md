@@ -42,7 +42,9 @@ Nous avons aussi effectué des changements pour le schéma de branchement et pla
 
 Pour finir, nous avons aussi améliorer l'arborescence de fichiers de nos médias des journaux pour mieux les séparer pour une meilleure organisation.
 
-![ici est une description de l'image](medias/collectif/Semaine2/arborescence.jpeg)
+![ici est une description de l'image](medias/collectif/Semaine2/arborescence1.JPG)
+
+![ici est une description de l'image](medias/collectif/Semaine2/arborescence.JPG)
 
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
