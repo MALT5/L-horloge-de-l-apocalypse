@@ -8,15 +8,15 @@ Au cours de cette semaine, nous avons acheté les différents éléments du déc
 
 ![ici est une description de l'image](medias/tel.jpg)
 
-![ici est une description de l'image](medias/horloge.PNG)
+![ici est une description de l'image](medias/horloge.png)
 
 Ensuite, nous avons aussi concrétisé certains points de la préproduction.
 
-![ici est une description de l'image](medias/git.jpg)
+![ici est une description de l'image](medias/git.JPG)
 
 Pour finir, nous nous sommes aussi filmés pour réaliser la vidéo explicative de la préproduction pour pouvoir faire un montage.
 
-![ici est une description de l'image](medias/montage_preproduction.PNG)
+![ici est une description de l'image](medias/montage_preproduction.png)
 
 ## Semaine 2
 

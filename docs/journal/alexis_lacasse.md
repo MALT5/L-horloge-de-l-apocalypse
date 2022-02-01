@@ -50,7 +50,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-- Continuer les planches photoshop des heures 4h-6h
+- Continuer les planches photoshop des heures 1h-3h a cause d'un changement de style
 
 ---
 ## Semaine 2
