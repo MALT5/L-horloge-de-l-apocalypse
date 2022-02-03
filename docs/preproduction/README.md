@@ -186,7 +186,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 
 * Ordinateur
     * 1 ordinateur de l'école ou 2 si le premier ne suffit pas 
-    * 2 micro-ordinateur (Arduino)
+    * 2 micro-contrôleur (Arduino)
     
 * Autre
     * Tout autre élément pertinent
@@ -234,8 +234,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Code Arduino ou Max8 qui ne fonctionne pas | Demander de l'aide au professeur ou sur l'Internet| Sinon, nous pourrions trouver une alternative à l'interactivité |
 | Gestion du temps | Introduire un horaire afin de gérer le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. 
-| Trouver les éléments du décor. | Les remplacer par d'autres objets qui pourront remplir les mêmes fonctions  | Trouver des éléments à acheter en ligne ou pas trop loin de chez nous.                                       |                                                       |                                                                                              |
-
+| L'expérience ne se redémarre pas automatiquement au début. | Prendre un stepper motor avec un encodeur de rotation absolue. | Nous allons devoir faire des recherches sur ses différents éléments |                        |                     |
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](01_medias/budget.png)
@@ -249,9 +248,10 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 
 *Dates importantes :*
 - Première itération : lundi 8 novembre 2021
-- Prototype finale : lundi 13 décembre 2021
-- Production : Vendredi 11 Mars 2022
-- Installation : Vendredi 11 Mars 2022
+- Prototype final : lundi 13 décembre 2021 
+- Version finale du prototype: 11 mars 2022
+- Production : Vendredi 18 Mars 2022
+- Installation : Vendredi 18 Mars 2022
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
