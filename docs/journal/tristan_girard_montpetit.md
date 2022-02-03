@@ -69,7 +69,7 @@ Aller chercher le piedestale car la pluspart son très loin.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -82,7 +82,7 @@ Aller chercher le piedestale car la pluspart son très loin.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ x ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
