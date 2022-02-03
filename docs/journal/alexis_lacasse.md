@@ -56,6 +56,7 @@ N/A
 ## Semaine 2
 ### Résumé des réalisations effectuées
 - Modifier le moodboard de style
+- Refaire ma partie de vidéo
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![moodboard style ](medias/Alexis/Semaine2/moodboard_style_vecteur.png)
