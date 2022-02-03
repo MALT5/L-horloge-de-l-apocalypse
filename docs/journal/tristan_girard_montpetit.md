@@ -63,7 +63,8 @@ Aller chercher le piedestale car la pluspart son très loin.
 - rencontre pour mettre le projet et les problèmes au clair
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/Tristan/semaine2/tel_1.JPG)
+![ici est une description de l'image](medias/Tristan/semaine2/tel_2.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
