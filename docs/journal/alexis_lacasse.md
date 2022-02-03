@@ -50,46 +50,48 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-- Continuer les planches photoshop des heures 1h-3h a cause d'un changement de style
+- Commencer les planches photoshop
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
 - Modifier le moodboard de style
 - Refaire ma partie de vidéo
+- Commencer les planches photoshop
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![moodboard style ](medias/Alexis/Semaine2/moodboard_style_vecteur.png)
+![moodboard style ](medias/Alexis/Semaine2/video_alexis.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ai pas fais les planches photoshop au complet, mais j'ai commencer les planches.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mettre tout mon temps sur la réalisation des planches photoshop.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Qu'il fallait recommencer notre vidéo de préproduction au complet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais recommencer la vidéo le plus rapidement possible.
 
 ### Défis pour la prochaine semaine
-
+- Continuer les planches photshop
 
 ---
 ## Semaine 3 

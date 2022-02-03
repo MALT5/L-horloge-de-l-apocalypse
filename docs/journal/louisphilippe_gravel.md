@@ -57,40 +57,45 @@ Réaliser toutes les vidéos et le montage pour l'évaluation formative de la se
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Nous avons clarifié le scénario
+- Meilleure arborescence pour les médias des journaux
+- Rencontre avec les professeurs
+- Amélioration de la préproduction
+- Ajout de la contrainte de l'expérience qui ne se rénitialise pas automatiquement
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![github](medias/LP/Semaine2/arborescence.JPG)
+![github](medias/LP/Semaine2/arborescence1.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai bien réaliser mes tâches et je me suis assuré de la bonne communication par rapport aux changements que nous voulions faire sur le projet dans la préproduction. J'ai aussi pris des notes sur les commentaires des professeurs sur les changements de la préproduction et sur les problèmes liés au projet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne dépasse pas 10 min. Il faudra aussi aussi encore travailler sur la préproduction pour clarifier la conclusion avec le téléphone. Pour finir, il faudra faire des recherches sur la contrainte de l'expérience qui ne se rénitialise pas automatiquement.
 
 ---
 ## Semaine 3 
