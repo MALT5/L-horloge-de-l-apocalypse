@@ -60,7 +60,7 @@ Si je vois qu'il y a d'autres tâches prioritaires, je payerai également l'abon
 - Correction de ma partie de la vidéo de préproduction.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Enregistrement de la video de la préproduction](medias/maxime_s/semaine_02/precessus_musique.PNG)
+![Enregistrement de la video de la préproduction](medias/maxime_s/semaine_02/processus_musique.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 - [x] Complètement
