@@ -75,7 +75,7 @@ Finaliser le montage pour la préproduction, effectuer le journal de bord, comme
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Nous avons écrit le scénario afin de bien scénariser notre expérience multimédia interactive. De plus, j'ai été responsable de faire le montage et l'exportation de la vidéo explicative de la préproduction. Nous avons aussi appliqué une nouvelle nomenclature aux fichiers des journaux de bord afin de ne pas mélanger les images des prochaines semaines et de bien nous retrouver au cours de la session.  
+ Nous avons écrit le scénario afin de bien scénariser notre expérience multimédia interactive. De plus, j’ai été responsable de faire le montage et l’exportation de la vidéo explicative de la préproduction. Nous avons aussi appliqué une nouvelle nomenclature aux fichiers des journaux de bord afin de ne pas mélanger les images des prochaines semaines et de bien nous retrouver au cours de la session.    
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
@@ -94,7 +94,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-
+Réenregistrer ma partie de la vidéo pour la préproduction, assurer le montage et l'exportation. De plus, je dois retravailler le scénario afin de l'améliorer. Pour finir, nous devons remettre à jour certains éléments de la préproduction dans le git-hub. 
 
 ---
 ## Semaine 3 
