@@ -66,7 +66,7 @@ Réaliser toutes les vidéos et le montage pour l'évaluation formative de la se
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![github](medias/LP/Semaine2/arborescence.jpg)
-![github](medias/LP/Semaine2/arborescence2.jpg)
+![github](medias/LP/Semaine2/arborescence1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
