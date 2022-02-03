@@ -23,7 +23,7 @@
 
 ### Images des réalisations dont tu es le plus fier
 ![Acquisition du piédestal](medias/MaximeD/Semaine1/piedestale.jpg)
-ou
+
 ![Montage de la vidéo de la préproduction](medias/MaximeD/Semaine1/montage_preproduction.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -64,7 +64,7 @@ Finaliser le montage pour la préproduction, effectuer le journal de bord, comme
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![Finalisation et exportation de la vidéo explicative de la préproduction](medias/MaximeD/Semaine2/Presentation_preproduction_video.png)
-ou
+
 ![Rédaction du scénario](medias/MaximeD/Semaine2/scenario_updated.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -75,7 +75,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- N/A
+ Nous avons écrit le scénario afin de bien scénariser notre expérience multimédia interactive. De plus, j'ai été responsable de faire le montage et l'exportation de la vidéo explicative de la préproduction. Nous avons aussi appliqué une nouvelle nomenclature aux fichiers des journaux de bord afin de ne pas mélanger les images des prochaines semaines et de bien nous retrouver au cours de la session.  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A

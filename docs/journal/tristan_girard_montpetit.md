@@ -58,7 +58,9 @@ Aller chercher le piedestale car la pluspart son très loin.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Rencontre professeurs
+- réparation téléphone antique
+- rencontre pour mettre le projet et les problèmes au clair
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -66,7 +68,7 @@ Aller chercher le piedestale car la pluspart son très loin.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [ x ] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -79,7 +81,7 @@ Aller chercher le piedestale car la pluspart son très loin.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [ x ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -91,7 +93,7 @@ Aller chercher le piedestale car la pluspart son très loin.
 
 
 ### Défis pour la prochaine semaine
-
+Tout particulièrement essayer de se mettre au prototyapge et réussir à trouver une solution pour la remise à zéro de l'horloge. 
 
 ---
 ## Semaine 3 
