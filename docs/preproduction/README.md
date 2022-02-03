@@ -249,9 +249,10 @@ https://github.com/MALT5/L-horloge-de-l-apocalypse/milestones
 
 *Dates importantes :*
 - Première itération : lundi 8 novembre 2021
-- Prototype finale : lundi 13 décembre 2021
-- Production : Vendredi 11 Mars 2022
-- Installation : Vendredi 11 Mars 2022
+- Prototype final : lundi 13 décembre 2021 
+- Version finale du prototype: 11 mars 2022
+- Production : Vendredi 18 Mars 2022
+- Installation : Vendredi 18 Mars 2022
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
