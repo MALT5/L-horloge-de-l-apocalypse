@@ -54,40 +54,40 @@ Si je vois qu'il y a d'autres tâches prioritaires, je payerai également l'abon
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Production des 11 moodboards d'inspiration artistique.
+- Réimagination du style général des planches artistiques.
+- Composition, mixage et mastering des 11 trames sonores. (Sujet à changer)
+- Correction de ma partie de la vidéo de préproduction.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Enregistrement de la video de la préproduction](medias/maxime_s/semaine_02/processus_musique.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a quelques modifications à faire dans la vidéo de préproduction. Il faut davantage renchérir sur les détails au lieu de les énumérer.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais réenregistrer ma partie de la vidéo de préproduction.
 
 ### Défis pour la prochaine semaine
-
+- Réaliser les arrières plans pour les premières planches photoshop. Tenter de faire 1 à 6.
 
 ---
 ## Semaine 3 
