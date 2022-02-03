@@ -58,9 +58,11 @@ Si je vois qu'il y a d'autres tâches prioritaires, je payerai également l'abon
 - Réimagination du style général des planches artistiques.
 - Composition, mixage et mastering des 11 trames sonores. (Sujet à changer)
 - Correction de ma partie de la vidéo de préproduction.
+- Réalisation du background de la scène 1 sur Illustrator.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Enregistrement de la video de la préproduction](medias/maxime_s/semaine_02/processus_musique.PNG)
+![Processus de production de la trame sonore](medias/maxime_s/semaine_02/processus_musique.PNG)
+![Background première planche](medias/maxime_s/semaine_02/scene_01.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 - [x] Complètement
