@@ -72,10 +72,10 @@ N/A
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Je n'ai pas fais les planches photoshop au complet, mais j'ai commencer les planches.
+Je n'ai pas fais les planches photoshop au complet, mais j'ai commencer les planches.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Mettre tout mon temps sur la réalisation des planches photoshop.
+A partir de la semaine prochaine, je vais mettre tout mon temps sur la réalisation des planches photoshop.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
