@@ -62,6 +62,7 @@ Aller chercher le piedestale car la pluspart son très loin.
 - Réparation téléphone antique
 - Rencontre pour mettre le projet et les problèmes au clair
 - Recherche pour et évaluation des possibilité pour faire le téléphone
+- Refaire la vidéo de la préprod 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/Tristan/semaine2/tel_1.jpg)
