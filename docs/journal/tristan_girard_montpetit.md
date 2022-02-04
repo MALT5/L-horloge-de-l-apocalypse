@@ -59,8 +59,9 @@ Aller chercher le piedestale car la pluspart son très loin.
 ## Semaine 2
 ### Résumé des réalisations effectuées
 - Rencontre professeurs
-- réparation téléphone antique
-- rencontre pour mettre le projet et les problèmes au clair
+- Réparation téléphone antique
+- Rencontre pour mettre le projet et les problèmes au clair
+- Recherche pour et évaluation des possibilité pour faire le téléphone
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/Tristan/semaine2/tel_1.jpg)
