@@ -110,10 +110,10 @@ L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour don
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
-*  12 animations conçues avec after effects (1 par scène)
+*  11 animations conçues avec after effects (1 par scène)
 *  1 animations supplémentaires conçues avec after effects pour la scène finale
 *  Effets sonores divers pour la scène d'introduction et la scène finale
-*  12 trames sonores (1 par scène), le tout est évolutif
+*  11 trames sonores (1 par scène), le tout est évolutif
 *  4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1945969_cmontmorency_qc_ca/ERKCSlUJhTFEp-WwGbcpxx0BK9-bCbdidCFUX_tMK-mZ6w?e=4yY9z0)
