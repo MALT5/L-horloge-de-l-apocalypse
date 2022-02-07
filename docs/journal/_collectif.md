@@ -63,6 +63,8 @@ De plus, nous avons corrigé certains éléments de la préproduction dans le gi
 
 Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.  
 
+![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
+
 
 
 
