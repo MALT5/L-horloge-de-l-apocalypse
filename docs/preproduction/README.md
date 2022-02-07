@@ -221,7 +221,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
+* Petit studio (studio de son)
     * Projection vidéo
     * Installation de lumières
     * Installation de l'oeuvre
