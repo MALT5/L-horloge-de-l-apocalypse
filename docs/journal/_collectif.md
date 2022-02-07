@@ -51,7 +51,7 @@ Pour finir, nous avons aussi améliorer l'arborescence de fichiers de nos média
 Au cours de cette semaine, nous avons amélioré le scénario afin de corriger certaines erreurs. Pour approndir, nous avons rajouté certains éléments afin de rendre l'histoire plus concise et mieux structurée. 
 
  
-![ici est une description de l'image](medias/collectif/Semaine2/scenario_updated.JPG)
+![Scénario](medias/collectif/Semaine3/scenario_horloge_de_l'apocalypse.md)
 
 De plus, nous avons corrigé certains éléments de la préproduction dans le github :
 - Les moodboards de chaque scène. 
@@ -59,7 +59,7 @@ De plus, nous avons corrigé certains éléments de la préproduction dans le gi
 - Style artistique des scènes (collage à vectoriel).
 - Mettre en place le problème de l'horloge qui ne se remet pas à zéro d'elle-même.
 
-![ici est une description de l'image](medias/collectif/Semaine3/scenario_horloge_de_l'apocalypse.pdf)
+![ici est une description de l'image](medias/collectif/Semaine3/.md)
 
 Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.  
 
