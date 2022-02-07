@@ -59,7 +59,7 @@ De plus, nous avons corrigé certains éléments de la préproduction dans le gi
 - Style artistique des scènes (collage à vectoriel).
 - Mettre en place le problème de l'horloge qui ne se remet pas à zéro d'elle-même.
 
-![ici est une description de l'image](medias/collectif/Semaine2/Presentation_preproduction_video.png)
+![ici est une description de l'image](medias/collectif/Semaine3/scenario_horloge_de_l'apocalypse.md)
 
 Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.  
 
