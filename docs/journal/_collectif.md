@@ -46,6 +46,28 @@ Pour finir, nous avons aussi améliorer l'arborescence de fichiers de nos média
 
 ![ici est une description de l'image](medias/collectif/Semaine2/arborescence.JPG)
 
+## Semaine 3
+
+Au cours de cette semaine, nous avons amélioré le scénario afin de corriger certaines erreurs. Pour approndir, nous avons rajouté certains éléments afin de rendre l'histoire plus concise et mieux structurée. 
+
+ 
+![Scénario](medias/collectif/Semaine3/scenario_horloge_de_l'apocalypse.md)
+
+De plus, nous avons corrigé certains éléments de la préproduction dans le github :
+- Les moodboards de chaque scène. 
+- La mise en page du scénario.
+- Style artistique des scènes (collage à vectoriel).
+- Mettre en place le problème de l'horloge qui ne se remet pas à zéro d'elle-même.
+
+![ici est une description de l'image](medias/collectif/Semaine3/.md)
+
+Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.  
+
+![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
+
+
+
+
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
@@ -77,7 +99,7 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 4
 
-## Semaine 3
+
 
 
 
