@@ -100,6 +100,7 @@ Je vais recommencer la vidéo le plus rapidement possible.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![moodboard style ](medias/Alexis/Semaine3/scene_01_fini.png)
+![moodboard style ](medias/Alexis/Semaine3/scene_02_fini.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
