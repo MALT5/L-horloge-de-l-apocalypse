@@ -60,7 +60,26 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 ![moodboard](01_medias/moodboard_piedestale)
 ![moodboard](01_medias/moodboard_conclusion)
 
+## Moodboard sonore
+Scene 01 et 02: https://youtu.be/UgKr2c2ZebM?list=PLDisKgcnAC4RbwywMTbJpC-uBg6mUeCsO 
 
+Scene 03: https://youtu.be/LrZx5PhVQ7k?list=PLu6_FOgZp3egBufcXquYNuvCOVF9fQVKb
+
+scene 04: https://youtu.be/H6udjKIojoE?list=OLAK5uy_nWbRrBVDIDM_08DLg_u1uagBWoHdPQS5k
+
+scene 05: https://youtu.be/jvipPYFebWc
+
+scene 06: https://youtu.be/tSk7OOw2iTc
+
+scene 07: https://youtu.be/DTf_VYDqPuE
+
+scene 08: https://youtu.be/lp6z3s1Gig0
+
+scene 09: https://youtu.be/8DeiV0ryQDY
+
+scene 10: https://youtu.be/7wtfhZwyrcc
+
+scene 11: https://youtu.be/9a4Rx7T_lwc
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
@@ -166,7 +185,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 * Audio
     * 4 haut-parleurs 
     * 8 fils XLR 3 
-    * focusright carte de son
+    * Focusrite carte de son
 
 * Vidéo
     * 3 projecteurs vidéo lentille ultra wide 0.3
@@ -174,8 +193,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * 1 caméra Sony a6500
 
 * Lumière
- 
-    * un spotlight
+    * un projecteur de lumière couleur
     * 2 fils XLR 3 conducteurs de 20'
     * Console DMX
     * Interface DMX USB
@@ -193,10 +211,10 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * 2 micro-contrôleur (Arduino)
     
 * Autre
-    * Tout autre élément pertinent
-    * capteur de mouvement (kinect) pour le spotlight
+    * Kit de camera
+    * Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
     * 1 potentiomètre
-    * 1 photorésistance
+    * Toile blanche (pour projection)
     * 1 bouton
     * 8 safety
 
@@ -239,10 +257,14 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 | Code Arduino ou Max8 qui ne fonctionne pas | Demander de l'aide au professeur ou sur l'Internet| Sinon, nous pourrions trouver une alternative à l'interactivité |
 | Gestion du temps | Introduire un horaire afin de gérer le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. 
 | L'expérience ne se redémarre pas automatiquement au début. | Dire à l'intéracteur de remettre l'expérience au début | Nous allons devoir faire des recherches sur ses différents éléments 
-| alo | alo | alo |
-| alo | alo | alo |
-| alo | alo | alo |
-| alo | alo | alo |
+| Effet ressenti de l'expérience non atteint | Clarifier le message général de l'expérience dans les textes | Nous allons clarfier nos textes pour que l'intéracteur comprenne bien le message. |
+| Utiliser un potentiomètre de 360 degrés | Nous allons acheter un potentiomètre 360 degrés pour l'aguille de l'horloge | Faire des recherches sur Internet pour trouver un potentiomètre |
+| Allez trop loin dans la musique sans inspiration | Faire des moodboards de sons pour nos inspirations | Maxime Sabourin va créer les moodboards |
+| Transition et ambiance générale entre les différents unvivers visuels et sonores des scènes  | Tester les transitions dans le petit studio avec les projections et les sons dans les haut-parleurs | Voir si les différents éléments fonctionnent et transitionnent bien entre eux dans le petit studio. |
+| Spatialisation des sons | Faire de recherches sur la spatialisation dans Reaper et demander de l'aide à Daryl | Il faudra faire des tests sur Reaper avec nos différents tracks sonores |
+| Utilisation du téléphone dans la scène finale | Faire des rencontres d'équipe et avec les professeurs pour déterminer exactement l'utilisation du téléphone | Nous avons une bonne idée de ce que nous voulons faire, mais il reste certains détails à développer/clarifier |
+| Pas capable de faire un téléphone hacker | Nous essaierons de faire un appel qui sonnera avec le téléphone pour que l'intéracteur décroche avec un message du narrateur à son oreille, il faudra demander de l'aide à Daryl pour le hack du téléphone | Il faudra faire des recherches et demander de l'aide à Daryl |
+| Horloge qui ne tient pas sur le piédestal | Mettre des stands pour qu'elle tienne | Il faudra soit en acheter ou en imprimer avec une imprimante 3D. |
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](01_medias/budget.png)
