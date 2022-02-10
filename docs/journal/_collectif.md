@@ -57,11 +57,14 @@ De plus, nous avons corrigé certains éléments de la préproduction dans le gi
 - Les moodboards de chaque scène. 
 - La mise en page du scénario.
 - Style artistique des scènes (collage à vectoriel).
-- Mettre en place le problème de l'horloge qui ne se remet pas à zéro d'elle-même.
+- Trouver une solution au problème du potentiomètre qui ne se remet pas au début de l'expérience.
+- Amener l'équipement dans le petit studio et les placer dans l'espace physique.
+- Avancement des scènes illustrator.
+- Update de certains éléments sur le site web.
 
-![ici est une description de l'image](medias/collectif/Semaine3/.md)
+![ici est une description de l'image](medias/collectif/Semaine3/scenario.jpeg)
 
-Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.  
+Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.   
 
 ![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
 
