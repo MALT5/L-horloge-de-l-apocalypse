@@ -169,7 +169,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * focusright carte de son
 
 * Vidéo
-    * 3 projecteurs vidéo lentille standard
+    * 3 projecteurs vidéo lentille ultra wide 0.3
     * 3 système d'acrochage
     * 1 caméra Sony a6500
 
