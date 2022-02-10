@@ -101,7 +101,11 @@ Tout particulièrement essayer de se mettre au prototyapge et réussir à trouve
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Cette semaine à été utilisé pour bien complété la préproduction et aussi commencer la production.
+-J'ai fait des assets pour différentes scènes.
+-Tester comment mettre l'horloge  sur le piedestal.
+-Vérifier comment résoudre le problème de remettre l'horloge à zéro
+-continuer à apprendre comment jouer avec le téléphone mais surtout défénir plus clairement ce que nous voulons faire avec celui-ci.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -110,19 +114,19 @@ Tout particulièrement essayer de se mettre au prototyapge et réussir à trouve
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Tout c'est bien passer mais j'aurais du prendre plus de photo de mes accomplissment.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -134,7 +138,9 @@ Tout particulièrement essayer de se mettre au prototyapge et réussir à trouve
 
 
 ### Défis pour la prochaine semaine
-
+-Savoir très clairement ce que le téléphone fera
+-Me faire un plan dequoi faire pour le téléphone
+-Faire du protypage de placement dans le petit studio
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
