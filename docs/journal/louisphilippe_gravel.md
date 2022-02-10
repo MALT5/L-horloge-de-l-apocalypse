@@ -101,10 +101,13 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Écriture et recherches sur les contraintes du projet.
-- 
+- Recherche sur le problème de l'expérience qui ne revient pas au début sans intéraction humaine.
+- Refaire ma partie de la vidéo présentative de la préproduction.
+- Travailler sur plusieurs parties de la préproduction pour l'améliorer.
+- Organisation d'une journée (mardi prochain) pour prototyper l'ambiance générale de l'expérience (transitions entre les scènes, apparence visuelle des scènes et des sons/musique pour voir si le tous les éléments vont bien ensemble).
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![github](medias/LP/Semaine3/contraintes.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -115,10 +118,10 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai bien 
+ J'ai bien réaliser mes tâches et j'ai pu coordonner une rencontre mardi prochain pour prototyper l'ambiance générale du projet. J'ai beaucoup développé les contraintes et les problèmes potentiels de l'expérience. J'ai aussi écrit toutes les contraintes et problèmes potentiels liés au projet que nous avions pour l'instant.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -128,13 +131,13 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'ai possiblement attraper le covid. Je ne vais donc probablement pas pouvoir me présenter mardi durant la rencontre que mon équipe et moi avons organisé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mes coéquipiers vont se rendre à l'école mardi et je serai en vidéo-conférence sur un appareil pour pouvoir participer à la rencontre et pouvoir aider à distance pour donner mon avis sur l'ambiance générale de l'expérience.
 
 ### Défis pour la prochaine semaine
-
+Il faudra s'assurer de respecter les nouvelles modifications dans la préproduction. Je commencerai aussi à mettre à jour le code Max pour qu'il respecte le nouvel ordre des scènes que nous avons établi dans le scénario. Je vais aussi devoir regarder attentivement mon état par rapport au covid pour voir si je pourrai me présenter à l'école ou non à notre rencontre d'équipe mardi et à la journée de mercredi ou de vendredi.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
