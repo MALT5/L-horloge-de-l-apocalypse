@@ -126,6 +126,8 @@ L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour don
 — À vous de remettre les pendules à l’heure.
 Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée. 
 
+![Scénario](medias/collectif/Semaine3/scenario_horloge_de_l'apocalypse.md)
+
 ![scenarimage global](01_medias/scenarimage.png)
 ![scenarimage partie 1](01_medias/plan_de_test/scénario_01.png)
 ![scenarimage partie 2](01_medias/plan_de_test/scénario_02.png)
