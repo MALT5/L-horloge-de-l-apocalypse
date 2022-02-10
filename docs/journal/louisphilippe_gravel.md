@@ -118,7 +118,7 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai bien réaliser mes tâches et j'ai pu coordonner une rencontre mardi prochain pour prototyper l'ambiance générale du projet. J'ai beaucoup développé les contraintes et les problèmes potentiels de l'expérience. J'ai aussi écrit toutes les contraintes et problèmes potentiels liés au projet que nous avions pour l'instant.
+ J'ai bien réaliser mes tâches et j'ai pu coordonner une rencontre mardi prochain pour prototyper l'ambiance générale du projet. J'ai beaucoup développé les contraintes et les problèmes potentiels de l'expérience. J'ai encore améliorer certains points de la préproduction qui est devenue une bien meilleure version que la précédente. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
