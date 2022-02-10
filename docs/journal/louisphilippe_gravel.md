@@ -100,7 +100,8 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Recherche sur les contraintes du projet
+- 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -108,13 +109,13 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai bien 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 

@@ -169,7 +169,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
     * focusright carte de son
 
 * Vidéo
-    * 3 projecteurs vidéo lentille standard
+    * 3 projecteurs vidéo lentille ultra wide 0.3
     * 3 système d'acrochage
     * 1 caméra Sony a6500
 
@@ -238,7 +238,7 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Code Arduino ou Max8 qui ne fonctionne pas | Demander de l'aide au professeur ou sur l'Internet| Sinon, nous pourrions trouver une alternative à l'interactivité |
 | Gestion du temps | Introduire un horaire afin de gérer le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. 
-| L'expérience ne se redémarre pas automatiquement au début. | Prendre un stepper motor avec un encodeur de rotation absolue. | Nous allons devoir faire des recherches sur ses différents éléments |                        |                     |
+| L'expérience ne se redémarre pas automatiquement au début. | Dire à l'intéracteur de remettre l'expérience au début | Nous allons devoir faire des recherches sur ses différents éléments | alo | alo | alo |
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](01_medias/budget.png)
