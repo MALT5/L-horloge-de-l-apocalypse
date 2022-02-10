@@ -65,12 +65,11 @@ Le public est appelé à se rendre compte du peu de temps qu'il reste à l'human
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
 ## Scénario, scénarimage ou document audio/visuel
-Scénario:
 
-Scénario Horloge de l’Apocalypse
+Scénario Horloge de l’Apocalypse:
 
 Scène 1 
-L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation.
+L’interacteur arrive sur les lieux devant lui se trouve un piédestal avec une horloge. Lorsque l’interacteur entre dans la pièce, une lumière jaillit du plafond et vient éclairer l’installation. Un écran noir apparait donc devant l’utilisateur et indique à ce dernier de remettre les aiguilles de l’horloge à minuit pour démarrer l’expérience.
 
 Scène 2
 Après quelques secondes, une vidéo apparait. Un narrateur explique le concept de l’horloge de l’apocalypse. Le narrateur voit une horloge sur les murs qui l’entourent et du texte qui s’affiche en bas de celle-ci. Plus la vidéo explicative de l’horloge avancera, plus les aiguilles de l’horloge avanceront vers minuit. 
@@ -83,12 +82,11 @@ Après quelques secondes, une vidéo apparait. Un narrateur explique le concept 
 — Si vous atteignez minuit, il ne sera plus possible de revenir en arrière, soyez vigilant !
 — Le destin de l’humanité repose entre vos mains.
 
-L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de la planète. Un écran noir apparait donc devant l’utilisateur et indique à ce dernier de remettre les aiguilles de l’horloge à minuit pour démarrer l’expérience.
-
+L’horloge explose et un son d’acouphène est entendu. Elle représente le Big Bang qui souligne le début de la planète
 
 
 Scène 3
-Lorsque l’horloge pointera minuit, la lumière au plafond clignotera rouge pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. Elle redeviendra blanche après cette séquence. L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière. 
+Lorsque l’horloge pointera minuit, la lumière au plafond clignotera pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière. 
 Scène 4 
 Une vidéo apparait avec une horloge qui défile à toute allure vers minuit. Un message s’affiche ensuite. Une musique de suspense est jouée durant cette scène.
 — Il est présentement 23 h 58.
@@ -101,8 +99,6 @@ Scène 6
 L’utilisateur sera filmé et dupliqué sur les murs qui l’entourent pour donner un sentiment de pression et de stress comme s’il était observé. Cela donne l’impression que l’humanité repose entre les mains du spectateur et montre l’impact personnel que chaque individu possède afin d’améliorer la situation de l’humanité. Une musique inspirante commence à jouer. 
 — À vous de remettre les pendules à l’heure.
 Un phénomène d’explosion cosmique (« fade au blanc » avec « son whoosh ») est entendu et affiche un fond noir. Les crédits commencent et l’expérience de l’horloge de l’apocalypse est terminée. 
-
-
 
 ![scenarimage global](01_medias/scenarimage.png)
 ![scenarimage partie 1](01_medias/plan_de_test/scénario_01.png)
