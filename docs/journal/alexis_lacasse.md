@@ -112,10 +112,10 @@ Je vais recommencer la vidéo le plus rapidement possible.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-N/A
+L'échéancier a été respecté
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -128,10 +128,10 @@ N/A
 N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+- Continuer les planches photoshop
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
