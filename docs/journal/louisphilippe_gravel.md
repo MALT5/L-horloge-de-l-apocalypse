@@ -100,7 +100,7 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-- Recherche sur les contraintes du projet
+- Écriture et recherches sur les contraintes du projet.
 - 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -122,7 +122,7 @@ Refaire la vidéo de la préproduction pour diminuer la longueur pour qu'elle ne
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
