@@ -99,40 +99,45 @@ Réenregistrer ma partie de la vidéo pour la préproduction, assurer le montage
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Premièrement, j’ai retravaillé certains éléments du scénario afin de corriger le problème du potentiomètre qui ne pourra pas se remettre à zéro. De plus, nous avons modifié la narration de la dernière scène afin de rendre le tout plus concis. De plus, j’ai effectué ma vidéo explicative de la préproduction. Par la suite, j’ai été responsable du montage, de l’exportation et de la mise en ligne de la vidéo explicative du projet. J’ai d’ailleurs rajouté une animation à la fin de celle-ci afin de pimenter le tout et donner le goût aux utilisateurs de participer au projet. J’ai aussi mis à jour la version web du projet en expliquant son résumé.  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Montage et mise en ligne de la deuxième video de la préproduction](medias/MaximeD/Semaine3/vidéo_de_la_préproduction_en_ligne.PNG)
 
+![Animation de fin de la vidéo de la préproduction](medias/MaximeD/Semaine3/animation.gif)
+
+![Nouvelle version du scénario](medias/MaximeD/Semaine3/scénario.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je suis heureux du travail que j’ai accompli cette semaine, car nous n’avons plus le problème du potentiomètre. De plus, j’ai réeffectué la vidéo explicative de la préproduction qui est selon moi bien meilleure que notre première version. Les informations sont beaucoup plus concises et il est bien plus facile de suivre nos pensées. Nous avons aussi retravaillé la mise en page du scénario qui est beaucoup plus professionnel et mieux structuré. En bref, je trouve que notre préproduction est bien meilleure que notre version précédente et notre version web du projet est beaucoup plus complète. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Notre coéquipier Louis-Philippe a été en contact avec une personne possédant la covid-19.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons lui montrer nos installations physiques en vidéoconférence et il pourra en attendant faire des médias afin de contribuer au projet bien qu’il ne puisse pas se présenter au studio.
 
 ### Défis pour la prochaine semaine
-
+Nous devrons aller dans le grand studio afin de placer les éléments principaux dans le petit studio et tester notre installation de base. Il faudra vérifier si la projection et le son marchent bien avant de peaufiner nos médias. De plus, je me chargerais de travailler sur le code « max » afin de rectifier les modifications faites dans le scénario. Aussi, si le temps me le permet, je commencerai la vidéo de la scène 1 du projet. 
+Pour les semaines à venir, il ne faudra pas oublier de mettre à jour notre préproduction constamment selon les modifications faites au cours du projet
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
