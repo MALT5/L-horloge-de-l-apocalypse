@@ -138,7 +138,7 @@ Cette semaine à été utilisé pour bien complété la préproduction et aussi 
 
 
 ### Défis pour la prochaine semaine
-Je dois savoir très clairement ce que le téléphone fera, me faire un plan dequoi faire pour le téléphone, faire du protypage de placement dans le petit studio
+Je dois savoir très clairement ce que le téléphone fera, me faire un plan dequoi faire pour le téléphone et faire du protypage de placement dans le petit studio.
 
 ---
 ## Semaine 4
