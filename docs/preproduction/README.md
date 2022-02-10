@@ -240,6 +240,9 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 | Gestion du temps | Introduire un horaire afin de gérer le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. 
 | L'expérience ne se redémarre pas automatiquement au début. | Dire à l'intéracteur de remettre l'expérience au début | Nous allons devoir faire des recherches sur ses différents éléments 
 | alo | alo | alo |
+| alo | alo | alo |
+| alo | alo | alo |
+| alo | alo | alo |
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](01_medias/budget.png)
