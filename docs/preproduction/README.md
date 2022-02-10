@@ -239,10 +239,14 @@ Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency
 | Code Arduino ou Max8 qui ne fonctionne pas | Demander de l'aide au professeur ou sur l'Internet| Sinon, nous pourrions trouver une alternative à l'interactivité |
 | Gestion du temps | Introduire un horaire afin de gérer le temps et les tâches des membres | Il faudrait faire plus de réunions d'équipe pour se coordonner. 
 | L'expérience ne se redémarre pas automatiquement au début. | Dire à l'intéracteur de remettre l'expérience au début | Nous allons devoir faire des recherches sur ses différents éléments 
-| alo | alo | alo |
-| alo | alo | alo |
-| alo | alo | alo |
-| alo | alo | alo |
+| Effet ressenti de l'expérience non atteint | Clarifier le message général de l'expérience dans les textes | Nous allons clarfier nos textes pour que l'intéracteur comprenne bien le message. |
+| Utiliser un potentiomètre de 360 degrés | Nous allons acheter un potentiomètre 360 degrés pour l'aguille de l'horloge | Faire des recherches sur Internet pour trouver un potentiomètre |
+| Allez trop loin dans la musique sans inspiration | Faire des moodboards de sons pour nos inspirations | Maxime Sabourin va créer les moodboards |
+| Transition et ambiance générale entre les différents unvivers visuels et sonores des scènes  | Tester les transitions dans le petit studio avec les projections et les sons dans les haut-parleurs | Voir si les différents éléments fonctionnent et transitionnent bien entre eux dans le petit studio. |
+| Spatialisation des sons | Faire de recherches sur la spatialisation dans Reaper et demander de l'aide à Daryl | Il faudra faire des tests sur Reaper avec nos différents tracks sonores |
+| Utilisation du téléphone dans la scène finale | Faire des rencontres d'équipe et avec les professeurs pour déterminer exactement l'utilisation du téléphone | Nous avons une bonne idée de ce que nous voulons faire, mais il reste certains détails à développer/clarifier |
+| Pas capable de faire un téléphone hacker | Nous essaierons de faire un appel qui sonnera avec le téléphone pour que l'intéracteur décroche avec un message du narrateur à son oreille, il faudra demander de l'aide à Daryl pour le hack du téléphone | Il faudra faire des recherches et demander de l'aide à Daryl |
+| Horloge qui ne tient pas sur le piédestal | Mettre des stands pour qu'elle tienne | Il faudra soit en acheter ou en imprimer avec une imprimante 3D. |
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](01_medias/budget.png)
