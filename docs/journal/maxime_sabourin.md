@@ -94,7 +94,8 @@ Je vais réenregistrer ma partie de la vidéo de préproduction.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Réalisation moodboard sonore.
+- Réalisation des arrières plans.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
