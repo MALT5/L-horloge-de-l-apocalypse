@@ -106,6 +106,7 @@ Cette semaine à été utilisé pour bien complété la préproduction et aussi 
 - Tester comment mettre l'horloge  sur le piedestal.
 - Vérifier comment résoudre le problème de remettre l'horloge à zéro
 - Continuer à apprendre comment jouer avec le téléphone mais surtout défénir plus clairement ce que nous voulons faire avec celui-ci.
+- S'occuper de la facette web du projet
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/Tristan/semaine3/sanglier.png)
