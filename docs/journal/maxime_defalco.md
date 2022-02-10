@@ -103,11 +103,11 @@ Premièrement, j’ai retravaillé certains éléments du scénario afin de corr
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Montage et mise en ligne de la deuxième video de la préproduction](medias/MaximeD/Semaine3/vidéo_de_la_préproduction_en_ligne.PNG)
+![Montage et mise en ligne de la deuxième video de la préproduction](medias/MaximeD/Semaine3/vidéo_de_la_préproduction_en_ligne.png)
 
 ![Animation de fin de la vidéo de la préproduction](medias/MaximeD/Semaine3/animation.gif)
 
-![Nouvelle version du scénario](medias/MaximeD/Semaine3/scénario.PNG)
+![Nouvelle version du scénario](medias/MaximeD/Semaine3/scénario.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
