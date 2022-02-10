@@ -60,12 +60,15 @@ De plus, nous avons corrigé certains éléments de la préproduction dans le gi
 - Avancement des scènes illustrator.
 - Update de certains éléments sur le site web.
 
+
+![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
 ![ici est une description de l'image](medias/collectif/Semaine3/scenario.JPG)
 ![Scénario](medias/collectif/Semaine3/scenario_horloge_de_l'apocalypse.md)
 
 Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour corriger certaines erreurs et rendre le tout beaucoup plus concis.   
 
-![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
+![ici est une description de l'image](medias/collectif/Semaine2/Presentation_preproduction_video.png)
+
 
 
 
