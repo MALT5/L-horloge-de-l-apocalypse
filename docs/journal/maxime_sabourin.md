@@ -95,39 +95,45 @@ Je vais réenregistrer ma partie de la vidéo de préproduction.
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 - Réalisation moodboard sonore.
-- Réalisation des arrières plans.
+- Réalisation des arrières plans des scènes 2 à 6.
+- Exportation des 11 trames sonores finales sans les effets sonores 5.1
+- finalisation de la vidéo de préproduction.
+- Ammener l'horloge dans le lieu de l'installation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![scene_02](medias/maxime_s/semaine_03/scene_02.png)
+![scene_03](medias/maxime_s/semaine_03/scene_03.png)
+![scene_04](medias/maxime_s/semaine_03/scene_04.png)
+![scene_05](medias/maxime_s/semaine_03/scene_05.png)
+![scene_06](medias/maxime_s/semaine_03/scene_06.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai respecté l'échéancier.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+- Finir les arrières plans des scènes 7 à 11.
 
 ---
 ## Semaine 4
