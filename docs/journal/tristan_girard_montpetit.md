@@ -108,7 +108,8 @@ Cette semaine à été utilisé pour bien complété la préproduction et aussi 
 - Continuer à apprendre comment jouer avec le téléphone mais surtout défénir plus clairement ce que nous voulons faire avec celui-ci.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/Tristan/semaine3/sanglier.png)
+![ici est une description de l'image](medias/Tristan/semaine3/bateau.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -138,9 +139,7 @@ Cette semaine à été utilisé pour bien complété la préproduction et aussi 
 
 
 ### Défis pour la prochaine semaine
--Savoir très clairement ce que le téléphone fera
--Me faire un plan dequoi faire pour le téléphone
--Faire du protypage de placement dans le petit studio
+Je dois savoir très clairement ce que le téléphone fera, me faire un plan dequoi faire pour le téléphone et faire du protypage de placement dans le petit studio.
 
 ---
 ## Semaine 4
