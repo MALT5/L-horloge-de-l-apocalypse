@@ -137,7 +137,8 @@ Nous allons lui montrer nos installations physiques en vidéoconférence et il p
 
 ### Défis pour la prochaine semaine
 Nous devrons aller dans le grand studio afin de placer les éléments principaux dans le petit studio et tester notre installation de base. Il faudra vérifier si la projection et le son marchent bien avant de peaufiner nos médias. De plus, je me chargerais de travailler sur le code « max » afin de rectifier les modifications faites dans le scénario. Aussi, si le temps me le permet, je commencerai la vidéo de la scène 1 du projet. 
-Pour les semaines à venir, il ne faudra pas oublier de mettre à jour notre préproduction constamment selon les modifications faites au cours du projet
+Pour les semaines à venir, il ne faudra pas oublier de mettre à jour notre préproduction constamment selon les modifications faites au cours du projet. 
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
