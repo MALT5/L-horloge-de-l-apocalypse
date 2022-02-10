@@ -138,6 +138,7 @@ Mes coéquipiers vont se rendre à l'école mardi et je serai en vidéo-confére
 
 ### Défis pour la prochaine semaine
 Il faudra s'assurer de respecter les nouvelles modifications dans la préproduction. Je commencerai aussi à mettre à jour le code Max pour qu'il respecte le nouvel ordre des scènes que nous avons établi dans le scénario. Je vais aussi devoir regarder attentivement mon état par rapport au covid pour voir si je pourrai me présenter à l'école ou non à notre rencontre d'équipe mardi et à la journée de mercredi ou de vendredi.
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
