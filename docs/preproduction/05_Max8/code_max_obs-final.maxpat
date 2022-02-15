@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1563.0, 929.0 ],
+		"rect" : [ 34.0, 77.0, 1629.0, 929.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1457,6 +1457,21 @@
 				}
 
 			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "", -1 ],
+					"source" : [ "obj-87", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-13", 0 ],
+					"midpoints" : [ 1071.0, 538.0 ],
+					"source" : [ "", -1 ]
+				}
+
+			}
  ],
 		"parameters" : 		{
 			"obj-11" : [ "live.dial[1]", "pot", 0 ],
@@ -1467,7 +1482,14 @@
 			"inherited_shortname" : 1
 		}
 ,
-		"dependency_cache" : [  ],
+		"dependency_cache" : [ 			{
+				"name" : "code_max[1]_20211021.maxsnap",
+				"bootpath" : "~/Documents/Max 8/Snapshots",
+				"patcherrelativepath" : "../../../../../Max 8/Snapshots",
+				"type" : "mx@s",
+				"implicit" : 1
+			}
+ ],
 		"autosave" : 0,
 		"snapshot" : 		{
 			"filetype" : "C74Snapshot",
@@ -1515,6 +1537,14 @@
 						"type" : "patcher",
 						"subtype" : "Undefined",
 						"embed" : 1,
+						"fileref" : 						{
+							"name" : "code_max[1]",
+							"filename" : "code_max[1]_20211021.maxsnap",
+							"filepath" : "~/Documents/Max 8/Snapshots",
+							"filepos" : -1,
+							"snapshotfileid" : "6e1ace2974fa3413cf0094c859d83b74"
+						}
+,
 						"snapshot" : 						{
 							"valuedictionary" : 							{
 								"parameter_values" : 								{
@@ -1539,14 +1569,6 @@
 
 							}
 
-						}
-,
-						"fileref" : 						{
-							"name" : "code_max[1]",
-							"filename" : "code_max[1]_20211021.maxsnap",
-							"filepath" : "~/Documents/Max 8/Snapshots",
-							"filepos" : -1,
-							"snapshotfileid" : "6e1ace2974fa3413cf0094c859d83b74"
 						}
 
 					}
