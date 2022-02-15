@@ -89,6 +89,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-87",
+					"int" : 1,
 					"maxclass" : "gswitch2",
 					"numinlets" : 2,
 					"numoutlets" : 2,
