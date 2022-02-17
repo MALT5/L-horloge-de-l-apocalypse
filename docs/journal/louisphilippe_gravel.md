@@ -142,39 +142,43 @@ Il faudra s'assurer de respecter les nouvelles modifications dans la préproduct
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+- J'ai réalisé le code Max avec Guillaume pour que le code suive le nouveau schéma scénaristique
+- J'ai assister à la rencontre de mes coéquipiers à distance.
+- J'ai complété les splits dans le code max pour qu'il aille le bon nombre de scènes OBS.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![github](medias/LP/Semaine3/max8.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai attrappé le covid, alors je n'ai pas eu assez d'énergie pour travailler sur le projet autant que je l'aurais voulu. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais essayer de travailler le plus possible sur le projet dans les prochains jours lorsque je me sentirai mieux.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le covid ne m'a vraiment pas aidé pour mes travaux autant au niveau de la coordination de l'équipe qu'au niveau de mes tâches.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mes symptômes ont un peu baissés alors je pourrai plus facilement travailler avec mon équipe. Je vais essayer de faire mes tâches correctement dans le temps imparti.
 
 ### Défis pour la prochaine semaine
+Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essayer de ne pas perdre trop d'informations par rapport à ce qui se passe dans nos installations dans le petit studio.
 
 ---
 ## Semaine 5
