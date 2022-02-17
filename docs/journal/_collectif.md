@@ -72,11 +72,17 @@ Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour 
 ## Semaine 4
 
 Au cours de cette semaine, nous avons corrigé les éléments finaux de notre préproduction. Nous avons ajouté des contraintes potentielles du projet, avons fait des moodboards sonore et amélioré certaines planches Photoshop. 
-![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
-De plus, nous avons apporté certaines modification à notre code Max de départ puisque nous avions changé certains élémens du scénario dans notre pré-production. Nous avons aussi ajouter des scènes OBS afin de bien suivre le scénario. 
-![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
-Nous avons aussi commencé à installer certains éléments dans studio afin de tester notre projection et le son. Nous avons installé les trois projecteurs ainsi que les haut-parleurs. 
-![ici est une description de l'image](medias/collectif/Semaine3/resume_image.png)
+
+![ici est une description de l'image](medias/collectif/semaine4/probleme.PNG)
+
+De plus, nous avons apporté certaines modification à notre code Max de départ puisque nous avions changé certains élémens du scénario dans notre pré-production. Nous avons aussi ajouter des scènes OBS afin de bien suivre le scénario.
+
+![ici est une description de l'image](medias/collectif/semaine4/speaker.jpg)
+
+Nous avons aussi commencé à installer certains éléments dans studio afin de tester notre projection et le son. Nous avons installé les trois projecteurs ainsi que les haut-parleurs. Plusieurs autres objets ont été ajouté aux petit studio comme un barre pour avancer les projecteurs. Aussi, la pluspart du matériel requis est maintenant acquis.
+
+![ici est une description de l'image](medias/collectif/semaine4/defalco.jpg)
+
 
 
 ## Semaine 9
