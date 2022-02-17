@@ -145,7 +145,13 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Manque pour l'inventaire
+- Assets pour différentes scènes
+- Modificartion du AI pour le rendre moins cliché
+- J'ai déterminé l'utilisation du téléphone
+- J'ai commencé la production en sachant quoi faire sur le téléphone
+- Installation dans le studio du système de son
+- Installation de la carte de son
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -153,7 +159,7 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -166,7 +172,7 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -178,6 +184,10 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 
 
 ### Défis pour la prochaine semaine
+- Souder une partie dans les fils du téléphone
+- Continuer l'installation et faire des tests dans le petit studio avec projection et son
+- Continuer les scènes photoshop
+- Aider à la production du max
 
 ---
 ## Semaine 5
