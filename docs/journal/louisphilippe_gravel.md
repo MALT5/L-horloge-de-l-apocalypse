@@ -142,7 +142,7 @@ Il faudra s'assurer de respecter les nouvelles modifications dans la préproduct
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-- J'ai réalisé le code Max avec Guillaume pour que le code suive le nouveau schéma scénaristique
+- J'ai réalisé le code Max avec Guillaume pour que le code suive le nouveau schéma scénaristique, on a fait un gate pour que l'intéracteur remette l'expérience à 0 au début.
 - J'ai assister à la rencontre de mes coéquipiers à distance.
 - J'ai complété les splits dans le code max pour qu'il aille le bon nombre de scènes OBS.
 - J'ai assisté à la rencontre de mercredi à distance
