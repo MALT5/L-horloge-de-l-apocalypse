@@ -73,7 +73,7 @@ Nous avons aussi reeffectué notre vidéo explicative de la préproduction pour 
 
 Au cours de cette semaine, nous avons corrigé les éléments finaux de notre préproduction. Nous avons ajouté des contraintes potentielles du projet, avons fait des moodboards sonore et amélioré certaines planches Photoshop. 
 
-![ici est une description de l'image](medias/collectif/semaine4/probleme.png)
+![ici est une description de l'image](medias/collectif/semaine4/probleme.PNG)
 
 De plus, nous avons apporté certaines modification à notre code Max de départ puisque nous avions changé certains élémens du scénario dans notre pré-production. Nous avons aussi ajouter des scènes OBS afin de bien suivre le scénario.
 
