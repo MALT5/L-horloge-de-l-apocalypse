@@ -145,11 +145,11 @@ N/A
 - Installer les hauts-parleurs aux quatre coins de l'installation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![scene_07](medias/maxime_s/semaine_03/scene_07.png)
-![scene_08](medias/maxime_s/semaine_03/scene_08.png)
-![scene_09](medias/maxime_s/semaine_03/scene_09.png)
-![scene_10](medias/maxime_s/semaine_03/scene_10.png)
-![scene_11](medias/maxime_s/semaine_03/scene_11.png)
+![scene_07](medias/maxime_s/semaine_04/scene_07.png)
+![scene_08](medias/maxime_s/semaine_04/scene_08.png)
+![scene_09](medias/maxime_s/semaine_04/scene_09.png)
+![scene_10](medias/maxime_s/semaine_04/scene_10.png)
+![scene_11](medias/maxime_s/semaine_04/scene_11.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 - [x] Complètement
