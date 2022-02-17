@@ -136,6 +136,8 @@ N/A
 ## Semaine 4
 ### Résumé des réalisations effectuées
 - Continuer les planches photoshop
+- Prendre les fils ainsi que les autre composantes manquantes (Ethernet, HDMI, Display, Extender HDMI)
+- 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![moodboard style ](medias/Alexis/Semaine4/scene_04_fini.png)
