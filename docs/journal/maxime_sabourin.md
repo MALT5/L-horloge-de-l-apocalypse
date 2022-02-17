@@ -138,39 +138,46 @@ N/A
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Réalisation des arrières plans des scènes 7 à 11.
+- Corrections mineures sur les scènes 2 à 4.
+- Réalisation d'une nouvelle trame sonore pour la scène 8 (années 80).
+- Réalisation des effets sonores d'arrière plan pour les 11 scènes.
+- Installer les hauts-parleurs aux quatre coins de l'installation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![scene_07](medias/maxime_s/semaine_04/scene_07.png)
+![scene_08](medias/maxime_s/semaine_04/scene_08.png)
+![scene_09](medias/maxime_s/semaine_04/scene_09.png)
+![scene_10](medias/maxime_s/semaine_04/scene_10.png)
+![scene_11](medias/maxime_s/semaine_04/scene_11.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai atteint mon objectif de finir les arrières plans et j'ai fait du travail supplémentaire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+- Faire le illustrator final des scènes 6 à 8.
+- Continuer l'installation du matériel dans le studio. Rendre le son quadraphonique fonctionnel.
 
 ---
 ## Semaine 5
