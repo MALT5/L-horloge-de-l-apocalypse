@@ -154,7 +154,9 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 - Installation de la carte de son
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/Tristan/semaine4/carte.jpg)
+![ici est une description de l'image](medias/Tristan/semaine4/defalco.jpg)
+![ici est une description de l'image](medias/Tristan/semaine4/speaker.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
