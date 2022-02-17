@@ -142,40 +142,43 @@ Pour les semaines à venir, il ne faudra pas oublier de mettre à jour notre pr�
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+Premièrement, j’ai effectué certaines installations physiques dans le petit studio. J’ai accroché les 3 projecteurs et j’ai aidé à installer les haut-parleurs. De plus, j’ai aidé à certains changements dans le code max pour bien scénariser les changements de scène dans OBS. J’ai aussi assuré que chaque élément soit bien séquencé un à la suite de l’autre dans la console du code max. 
+ 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Fonctionnement du code Max](medias/MaximeD/Semaine4/max.jpg)
 
+![Installation des projecteurs dans le petit studio](medias/MaximeD/Semaine4/projecteur.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous n’avons pas testé entièrement les installations avec OBS comme je le souhaitais et je n’ai pas eu le temps de commencer la vidéo d’introduction de la scène d’introduction.    
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Pour la semaine suivante, je vais me concentrer davantage sur les installations OBS et Madmapper afin de bien diffuser les images dans le grand studio. Selon moi il n'y a pas encore de retard au projet, car pour compenser, notre code max est entièrement fonctionnel. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Exécuter une projection visuelle et sonore entièrement fonctionnelle afin d’effectuer des tests dans le petit studio. De plus, je me chargerai de faire la vidéo d’introduction. J’assurerai d’installer le web socket de OBS et de charger nos scènes sur l’ordinateur de l’école. En bref, je voudrais une installation fonctionnelle pour la semaine prochaine.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
