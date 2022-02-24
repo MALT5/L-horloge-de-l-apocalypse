@@ -183,15 +183,17 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+- J'ai réalisé une partie du mapping des projecteurs dans Madmapper
+- 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![github](medias/LP/Semaine5/mapping.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -204,7 +206,7 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
