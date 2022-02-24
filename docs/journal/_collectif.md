@@ -87,7 +87,7 @@ Nous avons aussi commencé à installer certains éléments dans studio afin de 
 
 Au cours de cette semaine, nous avons mis en place les projecteurs pour faire fonctionner les projections dans Madmapper. 
 
-![ici est une description de l'image](medias/collectif/Semaine5/projecteurs.JPG)
+![ici est une description de l'image](medias/collectif/Semaine5/projecteurs.jpg)
 
 Nous avons magasiner un potentiomètre 360 degrés avec Guillaume pour les aiguilles de l'horloge.
 
