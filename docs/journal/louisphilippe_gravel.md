@@ -183,11 +183,11 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-- J'ai réalisé une partie du mapping des projecteurs dans Madmapper
-- J'ai aidé à placer lse projecteurs pour que les projections affiche bien
-- Connecter le Max8 au OBS avec OSC au Madmapper pour que les projections fonctionnent
-- Comprendre comment connecter le OBS à Madmapper avec Spout
-- Faire des recherches pour le potentiomètre avec Guillaume
+- J'ai réalisé une partie du mapping des projecteurs dans Madmapper.
+- J'ai aidé à placer les projecteurs pour que les projections affiche bien.
+- J'ai connecté le Max8 au OBS avec OSC au Madmapper pour que les projections fonctionnent.
+- Comprendre comment connecter le OBS à Madmapper avec Spout.
+- Faire des recherches sur le potentiomètre 360 degrés avec Guillaume.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -202,7 +202,7 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai pu allé à l'école et travailler avec mon équipe pour le placement des éléments physiques dans le petit studio. Nous avons aussi connecté tous les logiciels nécessaires (OBS, Max8, Madmapper)
+ J'ai pu allé à l'école et travailler avec mon équipe pour le placement des éléments physiques dans le petit studio. Nous avons aussi connecté tous les logiciels nécessaires au bon fonctionnement des projections (OBS, Max8, Madmapper)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
@@ -221,7 +221,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Terminer de spatialiser le son dans les haut-parleurs et placer le potentiomètre avec l'horloge
+Terminer de spatialiser le son dans les haut-parleurs en mettant les sons dans Max8 et placer le potentiomètre avec l'horloge pour vérifier son fonctionnement.
 
 ---
 ## Semaine de rattrapage
