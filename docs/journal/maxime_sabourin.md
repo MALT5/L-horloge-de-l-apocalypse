@@ -215,7 +215,7 @@ N/A
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Le son ne peut pas 'monitoré' en 4.1 sur OBS. 
+Le son ne peut pas être 'monitoré' (donc diffusé) en 4.1 sur OBS. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Il faut donc passer par Max8. Heureusement, Daryl m'a montré comment le 4.1 fonctionne dans Max8.
