@@ -99,7 +99,11 @@ Nous avons connecter OBS et Madmapper à l'aide de Spout.
 
 Nous avons aussi connecter Max8 avec OBS à l'aide du websocket de OSC que nous avons installé pour que le potentiomètre contrôle le changement de scènes et qu'il s'effectue sur les projections.
 
-![ici est une description de l'image](medias/collectif/Semaine5/video_projections.MP4)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="medias/collectif/Semaine5/video_projections.mp4" type="video/mp4">
+  </video>
+</figure>
 
 En bref, nous avons beaucoup avancé les installations physiques tel que les projecteurs pour les projections et avons mis en relation les logiciels qui étaient nécessaires pour les projections (Max8, Madmapper et OBS).
 
