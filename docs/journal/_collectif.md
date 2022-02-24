@@ -97,7 +97,7 @@ Nous avons connecter OBS et Madmapper à l'aide de Spout.
 
 ![ici est une description de l'image](medias/collectif/Semaine5/OBS_madmapper.png)
 
-Nous avons aussi connecter Max8 avec OBS pour que le potentiomètre contrôle le changement de scènes et qu'il s'effectue sur les projections.
+Nous avons aussi connecter Max8 avec OBS à l'aide du websocket de OSC que nous avons installé pour que le potentiomètre contrôle le changement de scènes et qu'il s'effectue sur les projections.
 
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
