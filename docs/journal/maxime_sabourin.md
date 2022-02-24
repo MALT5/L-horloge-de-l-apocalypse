@@ -182,40 +182,46 @@ N/A
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Montage illustrator complet des scènes 6 à 10.
+- Installation du matériel dans le petit studio (surtout en ce qui concerne le son).
+- Le son quadraphonique est maintenant fonctionnel.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![scene_06](medias/maxime_s/semaine_05/scene_06.png)
+![scene_07](medias/maxime_s/semaine_05/scene_07.png)
+![scene_08](medias/maxime_s/semaine_05/scene_08.png)
+![scene_09](medias/maxime_s/semaine_05/scene_09.png)
+![scene_10](medias/maxime_s/semaine_05/scene_10.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je m'étais fixé l'objectif de finir les scènes 6 à 8, j'en ai fait 2 de plus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le son ne peut pas 'monitoré' en 4.1 sur OBS. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il faut donc passer par Max8. Heureusement, Daryl m'a montré comment le 4.1 fonctionne dans Max8.
 
 ### Défis pour la prochaine semaine
-
+Le son doit être finaliser dans l'espace interactif. (Musique et SFX jouent dans tous les 4 hauts-parleurs et le subwoofer)
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
