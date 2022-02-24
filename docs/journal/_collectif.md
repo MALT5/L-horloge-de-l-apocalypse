@@ -83,7 +83,19 @@ Nous avons aussi commencé à installer certains éléments dans studio afin de 
 
 ![ici est une description de l'image](medias/collectif/semaine4/defalco.jpg)
 
+## Semaine 5
 
+Au cours de cette semaine, nous avons mis en place les projecteurs pour faire fonctionner les projections dans Madmapper. 
+
+![ici est une description de l'image](medias/collectif/semaine5/projecteurs.JPG)
+
+Nous avons magasiner un potentiomètre 360 degrés avec Guillaume pour les aiguilles de l'horloge.
+
+![ici est une description de l'image](medias/collectif/semaine5/potentiometre.png)
+
+Nous avons connecter OBS et Madmapper à l'aide de Spout.
+
+![ici est une description de l'image](medias/collectif/semaine5/OBS_madmapper.png)
 
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)

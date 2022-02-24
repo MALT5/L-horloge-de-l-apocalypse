@@ -184,7 +184,10 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 ## Semaine 5
 ### Résumé des réalisations effectuées
 - J'ai réalisé une partie du mapping des projecteurs dans Madmapper
-- 
+- J'ai aidé à placer lse projecteurs pour que les projections affiche bien
+- Connecter le Max8 au OBS avec OSC au Madmapper pour que les projections fonctionnent
+- Comprendre comment connecter le OBS à Madmapper avec Spout
+- Faire des recherches pour le potentiomètre avec Guillaume
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -199,10 +202,10 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai pu allé à l'école et travailler avec mon équipe pour le placement des éléments physiques dans le petit studio. Nous avons aussi connecté tous les logiciels nécessaires (OBS, Max8, Madmapper)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -212,12 +215,13 @@ Guérir du covid et commencer à mettre en relation le code Max avec OBS. Essaye
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Terminer de spatialiser le son dans les haut-parleurs et placer le potentiomètre avec l'horloge
 
 ---
 ## Semaine de rattrapage
