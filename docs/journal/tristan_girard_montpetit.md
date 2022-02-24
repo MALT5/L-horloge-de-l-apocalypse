@@ -195,16 +195,16 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 ## Semaine 5
 ### Résumé des réalisations effectuées
 Pour ma part je me suis énormement concentré sur le téléphone.
--J'ai été trouver clairement ce qui allait être fait avec la téléphone
--Un prototypage de téléphone à été fait
--Aussi j'ai acheté le matériel pour le téléphone
--J'ai fait des recherches pour le son qui sortira de celui-ci
--les soudures sont fait dans le téléphone
--J'ai fait des recherches pour la voix
--Pour finir plusieurs choses on été fait dans le studio
+- J'ai été trouver clairement ce qui allait être fait avec la téléphone
+- Un prototypage de téléphone à été fait
+- Aussi j'ai acheté le matériel pour le téléphone
+- J'ai fait des recherches pour le son qui sortira de celui-ci
+- Les soudures sont fait dans le téléphone
+- J'ai fait des recherches pour la voix
+- Pour finir plusieurs choses on été fait dans le studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/Tristan/semaine5/phone.jpg)
+![ici est une description de l'image](medias/Tristan/semaine5/phone1.jpg)
 ![ici est une description de l'image](medias/Tristan/semaine5/phone2.jpg)
 ![ici est une description de l'image](medias/Tristan/semaine5/travail.jpg)
 
@@ -236,7 +236,9 @@ Pour ma part je me suis énormement concentré sur le téléphone.
 
 
 ### Défis pour la prochaine semaine
-
+- Commencer à faire le protoype physique de l'horloge
+- Faire la voix du narrateur
+- Bien avancer le son du téléphone
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
