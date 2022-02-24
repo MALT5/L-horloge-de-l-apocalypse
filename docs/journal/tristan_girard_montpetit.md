@@ -194,15 +194,24 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+Pour ma part je me suis énormement concentré sur le téléphone.
+-J'ai été trouver clairement ce qui allait être fait avec la téléphone
+-Un prototypage de téléphone à été fait
+-Aussi j'ai acheté le matériel pour le téléphone
+-J'ai fait des recherches pour le son qui sortira de celui-ci
+-les soudures sont fait dans le téléphone
+-J'ai fait des recherches pour la voix
+-Pour finir plusieurs choses on été fait dans le studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/Tristan/semaine5/phone.jpg)
+![ici est une description de l'image](medias/Tristan/semaine5/phone2.jpg)
+![ici est une description de l'image](medias/Tristan/semaine5/travail.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -215,7 +224,7 @@ Je dois savoir très clairement ce que le téléphone fera, me faire un plan deq
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
