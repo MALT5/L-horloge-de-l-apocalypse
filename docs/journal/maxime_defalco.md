@@ -218,7 +218,7 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Commencer la vidéo d'introduction ainsi que la vidéo de redémarrage. De plus, démarrer la soudure du potentiomètre avec le arduino. Si le temps nous le permet, il faudrait commencer à animer les scènes dans after effect afin de rendre le tout beaucoup plus immersif.  
+Commencer la vidéo d'introduction ainsi que la vidéo de redémarrage. De plus, démarrer la soudure du potentiomètre avec le arduino. Si le temps nous le permet, il faudrait commencer à animer les scènes dans after effect afin de rendre le tout beaucoup plus immersif.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
@@ -226,7 +226,7 @@ Commencer la vidéo d'introduction ainsi que la vidéo de redémarrage. De plus,
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+  
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -255,7 +255,6 @@ Commencer la vidéo d'introduction ainsi que la vidéo de redémarrage. De plus,
 
 
 ### Défis pour la prochaine semaine
-
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
