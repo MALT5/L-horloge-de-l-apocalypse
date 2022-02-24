@@ -83,7 +83,25 @@ Nous avons aussi commencé à installer certains éléments dans studio afin de 
 
 ![ici est une description de l'image](medias/collectif/semaine4/defalco.jpg)
 
+## Semaine 5
 
+Au cours de cette semaine, nous avons mis en place les projecteurs pour faire fonctionner les projections dans Madmapper. 
+
+![ici est une description de l'image](medias/collectif/Semaine5/projecteurs.jpg)
+
+Nous avons magasiner un potentiomètre 360 degrés avec Guillaume pour les aiguilles de l'horloge.
+
+![ici est une description de l'image](medias/collectif/Semaine5/potentiometre.png)
+
+Nous avons connecter OBS et Madmapper à l'aide de Spout.
+
+![ici est une description de l'image](medias/collectif/Semaine5/OBS_madmapper.png)
+
+Nous avons aussi connecter Max8 avec OBS à l'aide du websocket de OSC que nous avons installé pour que le potentiomètre contrôle le changement de scènes et qu'il s'effectue sur les projections.
+
+![video projections](medias/collectif/Semaine5/video_projections.mp4)
+
+En bref, nous avons beaucoup avancé les installations physiques tel que les projecteurs pour les projections et avons mis en relation les logiciels qui étaient nécessaires pour les projections (Max8, Madmapper et OBS).
 
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)

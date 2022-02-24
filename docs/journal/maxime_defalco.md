@@ -178,43 +178,47 @@ N/A
 N/A
 
 ### Défis pour la prochaine semaine
-Exécuter une projection visuelle et sonore entièrement fonctionnelle afin d’effectuer des tests dans le petit studio. De plus, je me chargerai de faire la vidéo d’introduction. J’assurerai d’installer le web socket de OBS et de charger nos scènes sur l’ordinateur de l’école. En bref, je voudrais une installation fonctionnelle pour la semaine prochaine.
+Exécuter une projection visuelle et sonore entièrement fonctionnelle afin d’effectuer des tests dans le petit studio. J’assurerai d’installer le web socket de OBS et de charger nos scènes sur l’ordinateur de l’école. En bref, je voudrais une installation fonctionnelle pour la semaine prochaine.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+Tout d’abord, j’ai effectué la mise en place des projecteurs afin de créer le moins possible d’ombre et facilité le «mapping» dans «mad mapper». De plus, je me suis chargé de créer les scènes OBS et de recréer entièrement ce que nous avions fait la session précédente sur l’ordinateur de l’école. J’ai ensuite installé de logiciel «OSC for obs» et les plug-ins pour le «spout» de obs et le «web socket de osc for obs». J’ai ensuite connecté notre code max à obs. Pour finir j’ai fait en sorte que nos projecteurs soient reconnus dans le logiciel «madmapper» et puisse projeter nos scènes obs.  
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Installation projecteurs](medias/MaximeD/Semaine5/projecteur.jpg)
 
+![Mise en place des scènes OBS sur l'ordinateur de l'école](medias/MaximeD/Semaine5/obs.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Nous avons en grande partie fait les installations physiques dans le petit studio. Nos installations sonores sont fonctionnelles. Notre projection affiche sur les projecteurs et notre code max est entièrement fonctionnel avec nos scènes obs. Nous avons accompli un grand nombre d’objectifs qui nous seront primordial pour la suite du projet. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Commencer la vidéo d'introduction ainsi que la vidéo de redémarrage. De plus, démarrer la soudure du potentiomètre avec le arduino. Si le temps nous le permet, il faudrait commencer à animer les scènes dans after effect afin de rendre le tout beaucoup plus immersif.
 
 ---
 ## Semaine de rattrapage
@@ -223,7 +227,7 @@ Exécuter une projection visuelle et sonore entièrement fonctionnelle afin d’
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+  
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -252,7 +256,6 @@ Exécuter une projection visuelle et sonore entièrement fonctionnelle afin d’
 
 
 ### Défis pour la prochaine semaine
-
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
