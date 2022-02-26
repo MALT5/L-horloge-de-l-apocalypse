@@ -226,7 +226,7 @@ Terminer de spatialiser le son dans les haut-parleurs en mettant les sons dans M
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- J'ai updaté et ajouté des issues de tâches que nous devrons faire pour le reste de la session.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
