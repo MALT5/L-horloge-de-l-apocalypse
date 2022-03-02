@@ -108,7 +108,7 @@ L’horloge explose et un son d’acouphène est entendu. Elle représente le Bi
 
 Scène 3:
 
-Lorsque l’horloge pointera minuit, la lumière au plafond clignotera pendant 2 secondes sur l’horloge afin d’inciter l’interacteur vers celle-ci. L’utilisateur peut alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière. 
+Lorsque l’horloge pointera minuit, l'utilisateur pourra alors changer les aiguilles de l’horloge afin de changer de scène. Chaque heure une nouvelle animation apparaitra. La première heure soulignera le début de l’humanité. Plus l’horloge avancera, plus le décor deviendra sombre et apocalyptique. Le son sera ajusté avec le décor pour bien compléter les animations. Lorsque l’horloge atteindra minuit, une vidéo apparait et il n’est plus possible de revenir en arrière. 
 
 Scène 4: 
 
