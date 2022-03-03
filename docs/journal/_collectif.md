@@ -103,6 +103,35 @@ Nous avons aussi connecter Max8 avec OBS à l'aide du websocket de OSC que nous 
 
 En bref, nous avons beaucoup avancé les installations physiques tel que les projecteurs pour les projections et avons mis en relation les logiciels qui étaient nécessaires pour les projections (Max8, Madmapper et OBS).
 
+## Semaine de rattrapage
+
+Au cours de cette semaine, nous avons placé la caméra au plafond.
+
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/cam.jpg)
+
+Nous avons aussi placer la Kinect et le raspberry pie pour la détection de présence.
+
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/kinect.jpg)
+
+Nous avons placer le spotlight au plafond.
+
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/spot.jpg)
+
+Nous avons aussi créé le code pour le potentiomètre 360.
+
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/pot.png)
+
+Aussi, nous avons créé le code pour la détection de présence avec la lumière.
+
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/detection.png)
+
+Nous avons aussi créé le code pour le spotlight.
+
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/qlc.png)
+
+Enfin, nous avons aussi calibrer les zones de la Kinect dans le logiciel VNC Viewer.
+
+
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
