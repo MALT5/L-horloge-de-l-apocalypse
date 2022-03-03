@@ -140,7 +140,7 @@ N/A
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![moodboard style ](medias/Alexis/Semaine4/scene_04_fini.png)
-![moodboard style ](medias/Alexis/Semaine4/scene_05_fini.png)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -211,14 +211,15 @@ N/A
 
 ### Défis pour la prochaine semaine
 - Placer et brancher le kit de détecteur de présence
+- Finir les planches photoshop
 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+-Fini les planches photoshop
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![moodboard style ](medias/Alexis/Semaine6/scene_05_fini.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
