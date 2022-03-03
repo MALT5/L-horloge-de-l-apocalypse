@@ -225,39 +225,42 @@ Le son doit être finaliser dans l'espace interactif. (Musique et SFX jouent dan
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Le son est maintenant complètement fonctionnel, il se déclenche à partir de Max8 au bon moment et joue dans les 4 hauts-parleurs correctement.
+- Réalisation de la dernière scène illustrator.
+- Réalisation de toutes les animations des scènes sur after effects (sujet à changer).
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![scene_11](medias/maxime_s/semaine_rattrapage/after_effects.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réalisé le but que je m'étais fixé en ce qui concerne l'espace interactif et j'ai finalisé les animations des scènes principales en plus.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+- Aider à installer et faire fonctionner les éléments dans l'espace interactif.
+- Aider au plan sonore et graphique pour la réalisation des scènes d'introduction et de conclusion de l'oeuvre.
 
 ---
 ## Semaine 6
