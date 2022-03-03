@@ -242,21 +242,31 @@ Pour ma part je me suis énormement concentré sur le téléphone.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
+Cette semaine aura été un peu plus tranquille pour moi. J'ai utilisé le début de semaine pour compléter des trucs personnel.
+J'ai quand même fait des trucs.
+- J'ai rédiger le journal collectif
+- Refait une partie du texte d'intro et je l'ai révisé
+- J'ai chercher une narratrice
+- Nous avons trouver un narratrice
+- J'ai pris le temps de m'assurer de la qualité du jeu d'acteur
+- Sinon j'ai beaucoup aider au placement de truc dans le studio
+- J'ai aussi essayer des trucs pour les sons du téléphone
+- J'ai aider au prototypage de l'horloge
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![ici est une description de l'image](medias/collectif/semaine_rattrapage/kinect.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Le son dans le téléphone et le téléphone comporte maintenant des embuches. Nous avons finalement décidé de mettre un bouton pour activer celui-ci. Aussi le média du son du téléphone ne me convaint jamais réellement et j'aimerais faire quelque chose de plus professionnel j'ai demandé de l'aide à mon collègue Maxime.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -264,18 +274,19 @@ Pour ma part je me suis énormement concentré sur le téléphone.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Comme dit au paravant le téléphone n'avance pas comme je le voudrais.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+- Finir le téléphone le plus possible
+- avoir un prototype plus complet de l'horloge
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées

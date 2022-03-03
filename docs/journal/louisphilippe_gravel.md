@@ -227,38 +227,43 @@ Terminer de spatialiser le son dans les haut-parleurs en mettant les sons dans M
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 - J'ai updaté et ajouté des issues de tâches que nous devrons faire pour le reste de la session.
+- J'ai fait le code Max qui permettait de contrôler le son à partir de Max au lieu d'OBS
+- J'ai aidé à faire sortir le son des haut-parleurs en quadraphoniques à partir de Max.
+- J'ai aidé à placer des éléments physiques dans le studio comme la caméra et la kinect pour la détection de présence.
+- J'ai fait des tests sur le code du potentiomètre
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![github](medias/LP/Semaine6/son_max.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai bien avancé tous les éléments de la semaine que je voulais réaliser et nous avons très bien avancé les installations d'équipements dans le studio. J'ai aussi updaté le tableau kanban dans github pour que nous sachions exactement ce qu'il nous restait à faire.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+Nous allons devoir trouver une solution pour le problème du potentiomètre, finaliser le placement de la kinect pour la détection de présence et finaliser l'installation de la caméra avec le bon angle.
 
 ---
 ## Semaine 6
