@@ -223,39 +223,46 @@ Commencer la vidéo d'introduction ainsi que la vidéo de redémarrage. De plus,
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+Cette semaine j’ai débuté la vidéo d’introduction pour le début du projet. De plus, nous avons effectué les soudures afin de brancher le potentiomètre au micro-ordinateur. J’ai travaillé en équipe sur le système de détection de lumière en positionnant la kinect et en effectuant quelque branchement dans Max. Nous avons aussi rendu la caméra fonctionnelle. De plus, j’ai remplacé une bonne partie des médias dans OBS afin de mettre les animations after-effect que mon collègue a effectué cette semaine.  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![Paramètres de la lumière dans qlc](medias/MaximeD/Semaine6/qlc.png)
 
+![Installation de la caméra](medias/MaximeD/Semaine6/cam.jpg)
+
+![Code de la détection de présence dans Max](medias/MaximeD/Semaine6/detection.png)
+
+![Code du nouveau potentiomètre dans Max](medias/MaximeD/Semaine6/pot.png)
   
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nos installations physiques sont presque terminées. La caméra et le système de détection de la lumière sont fonctionnels. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Malheureusement, le potentiomètre ne fait pas une rotation parfaite de 360 dégréés donc nous allons devoir le changer.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous allons commander un nouveau potentiomètre et tester notre code Max avec celui-ci. Nous allons prendre un encodeur de rotation absolue pour remédier au problème.  
 
 ### Défis pour la prochaine semaine
+Finaliser la vidéo d’introduction et la scène 12 du projet. Travailler avec un nouveau potentiomètre afin de le rendre entièrement fonctionnel avec notre code Max. 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
