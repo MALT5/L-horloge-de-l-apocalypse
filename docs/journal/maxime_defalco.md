@@ -263,6 +263,7 @@ Nous allons commander un nouveau potentiomètre et tester notre code Max avec ce
 
 ### Défis pour la prochaine semaine
 Finaliser la vidéo d’introduction et la scène 12 du projet. Travailler avec un nouveau potentiomètre afin de le rendre entièrement fonctionnel avec notre code Max. 
+
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
