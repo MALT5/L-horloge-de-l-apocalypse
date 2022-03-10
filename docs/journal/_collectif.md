@@ -141,10 +141,13 @@ Nous avons aussi finaliser l'installation de l'horloge physique dans l'espace av
 
 ![ici est une description de l'image](medias/collectif/Semaine6/horloge.jpg)
 
-Le code max a aussi été updaté pour le novueau potentiomètre
+Le code max a aussi été updaté pour le nouveau potentiomètre
 
-![ici est une description de l'image](medias/collectif/Semaine6/code_max.PNG)
+![ici est une description de l'image](medias/collectif/Semaine6/code_max.png)
 
+Nous avons terminé les scènes d'introduction, de conclusion, de reset et de crédit.
+
+![ici est une description de l'image](medias/collectif/Semaine6/intro.png)
 
 ## Semaine 8
 
