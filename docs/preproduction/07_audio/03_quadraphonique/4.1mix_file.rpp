@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.13/x64" 1646927869
+<REAPER_PROJECT 0.1 "6.13/x64" 1646928459
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -98,7 +98,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -138,16 +138,16 @@
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {708E1B7D-39CB-4B62-B8C0-47003622595A}
-      IID 37
-      NAME scene_11_final.wav
+      IGUID {F339CDB9-AD47-4A06-9255-389508ECF4F5}
+      IID 39
+      NAME scene_11_final-imported.wav
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {335C1EF8-9DEC-43FB-8415-0F8E2205B010}
+      GUID {BEDF2D8F-A5EB-4C22-9742-92DBD8F1E2BE}
       <SOURCE WAVE
-        FILE "scene_11_final.wav"
+        FILE "scene_11_final-imported.wav"
       >
     >
   >
@@ -164,7 +164,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.13/x64" 1646927770
+<REAPER_PROJECT 0.1 "6.13/x64" 1646927869
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -27,7 +27,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\TIM\Documents\GitHub\L-horloge-de-l-apocalypse\docs\preproduction\07_audio\03_quadraphonique\scene_02_quadra.wav"
+  RENDER_FILE "E:\MaxDisque1\session_5\gestion_de_projet\repo_malt5\L-horloge-de-l-apocalypse\docs\preproduction\07_audio\03_quadraphonique\scene_11_quadra_final.wav"
   RENDER_FMT 0 4 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 16 1000
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 1 1
-  SELECTION2 1 1
+  SELECTION 30 0
+  SELECTION2 30 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
