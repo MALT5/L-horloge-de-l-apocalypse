@@ -149,6 +149,8 @@ Nous avons terminé les scènes d'introduction, de conclusion, de reset et de cr
 
 ![ici est une description de l'image](medias/collectif/Semaine6/intro.png)
 
+Nous avons aussi avancé les soudures du téléphone. 
+
 ## Semaine 8
 
 ## Semaine 7
