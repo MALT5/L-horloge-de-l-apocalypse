@@ -135,9 +135,11 @@ Enfin, nous avons aussi calibrer les zones de la Kinect dans le logiciel VNC Vie
 
 Au cours de cette semaine, nous avons remplacé le potentiomètre 360 degrés par un potentiomètre rotatif à douze encoches. Guillaume à réalisé le mécanisme pour l'utiliser.
 
-![ici est une description de l'image](medias/collectif/Semaine6/mecanisme.JPG)
+![ici est une description de l'image](medias/collectif/Semaine6/mecanisme.jpg)
 
+Nous avons aussi finaliser l'installation de l'horloge physique dans l'espace avec l'aiguille qui tourne correctement.
 
+![ici est une description de l'image](medias/collectif/Semaine6/horloge.jpg)
 
 
 ## Semaine 8
