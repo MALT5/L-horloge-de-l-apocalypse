@@ -133,17 +133,21 @@ Enfin, nous avons aussi calibrer les zones de la Kinect dans le logiciel VNC Vie
 
 ## Semaine 6
 
-Au cours de cette semaine, nous avons remplacé le potentiomètre 360 degrés par un potentiomètre rotatif à douze encoches. Guillaume à réalisé le mécanisme pour l'utiliser.
+Au cours de cette semaine, nous avons remplacé le potentiomètre 360 degrés par un potentiomètre rotatif à douze encoches. Guillaume à réalisé le mécanisme pour qu'il puisse fonctionner.
 
 ![ici est une description de l'image](medias/collectif/Semaine6/mecanisme.jpg)
 
-Nous avons aussi finaliser l'installation de l'horloge physique dans l'espace avec l'aiguille qui tourne correctement.
+Nous avons aussi finalisé l'installation de l'horloge physique dans l'espace avec l'aiguille qui tourne correctement qui est alignée devant les bonnes heures.
 
 ![ici est une description de l'image](medias/collectif/Semaine6/horloge.jpg)
 
-Le code max a aussi été updaté pour le nouveau potentiomètre
+Le code max a aussi été updaté pour le nouveau potentiomètre.
 
 ![ici est une description de l'image](medias/collectif/Semaine6/code_max.PNG)
+
+Le code max de la timeline à partir de la scène finale a aussi été updaté pour palier aux nouveaux enjeux du potentiomètre.
+
+![ici est une description de l'image](medias/collectif/Semaine6/timeline_max.PNG)
 
 Nous avons terminé les scènes d'introduction, de conclusion, de reset et de crédit.
 
