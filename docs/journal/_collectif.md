@@ -142,6 +142,8 @@ Nous avons aussi finaliser l'installation de l'horloge physique dans l'espace av
 ![ici est une description de l'image](medias/collectif/Semaine6/horloge.jpg)
 
 
+
+
 ## Semaine 8
 
 ## Semaine 7
