@@ -155,6 +155,8 @@ Nous avons terminé les scènes d'introduction, de conclusion, de reset et de cr
 
 Nous avons aussi avancé les soudures du téléphone et fait que le lorsque le combiné est soulevé, une valeur est envoyée. 
 
+![ici est une description de l'image](medias/collectif/Semaine6/tel_max.PNG)
+
 ## Semaine 8
 
 ## Semaine 7
