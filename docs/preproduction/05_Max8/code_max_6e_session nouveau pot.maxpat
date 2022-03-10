@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 2173.0, 1275.0 ],
+		"rect" : [ 34.0, 77.0, 2195.0, 1290.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -95,7 +95,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2100.0, 115.0, 50.0, 50.0 ],
-					"text" : "0 time 3825229"
+					"text" : "0 time 3960318"
 				}
 
 			}
@@ -108,8 +108,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2176.292552947998047, 71.212764739990234, 201.0, 36.0 ],
-					"presentation_linecount" : 6,
-					"text" : "/m5_ethbtn/malt5/btn 0 time 3825229"
+					"text" : "/m5_ethbtn/malt5/btn 0 time 3960318"
 				}
 
 			}
@@ -563,7 +562,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 451.335105895996094, 141.212764739990234, 131.927713871002197, 22.0 ],
-					"text" : "0 1 0 0 0 0 0 0 0 0 0 0"
+					"text" : "0 0 0 0 0 0 0 0 0 0 1 0"
 				}
 
 			}
@@ -844,12 +843,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-144",
+					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 744.377658843994141, 125.118643522262573, 50.0, 22.0 ],
-					"text" : "1"
+					"patching_rect" : [ 744.377658843994141, 125.118643522262573, 50.0, 50.0 ],
+					"text" : "1 1 0 0 0 0 1 0 0 0 0 0"
 				}
 
 			}
@@ -1126,7 +1126,7 @@
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 28800.000000000007276, "ticks" ],
+						"originallength" : [ 6480.000000000001819, "ticks" ],
 						"originaltempo" : 120.000000000000028,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
