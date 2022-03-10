@@ -143,11 +143,11 @@ Nous avons aussi finaliser l'installation de l'horloge physique dans l'espace av
 
 Le code max a aussi été updaté pour le nouveau potentiomètre
 
-![ici est une description de l'image](medias/collectif/Semaine6/code_max.png)
+![ici est une description de l'image](medias/collectif/Semaine6/code_max.PNG)
 
 Nous avons terminé les scènes d'introduction, de conclusion, de reset et de crédit.
 
-![ici est une description de l'image](medias/collectif/Semaine6/intro.png)
+![ici est une description de l'image](medias/collectif/Semaine6/intro.PNG)
 
 Nous avons aussi avancé les soudures du téléphone. 
 
