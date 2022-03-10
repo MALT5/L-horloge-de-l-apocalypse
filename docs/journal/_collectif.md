@@ -133,6 +133,9 @@ Enfin, nous avons aussi calibrer les zones de la Kinect dans le logiciel VNC Vie
 
 ## Semaine 6
 
+Au cours de cette semaine, nous avons remplacé le potentiomètre 360 degrés par un potentiomètre rotatif à douze encoches. Guillaume à réalisé le mécanisme pour l'utiliser.
+
+![ici est une description de l'image](medias/collectif/Semaine6/mecanisme.jpg)
 
 
 
