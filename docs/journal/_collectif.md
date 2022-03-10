@@ -143,7 +143,7 @@ Nous avons aussi finaliser l'installation de l'horloge physique dans l'espace av
 
 Le code max a aussi été updaté pour le novueau potentiomètre
 
-![ici est une description de l'image](medias/collectif/Semaine6/code_max.png)
+![ici est une description de l'image](medias/collectif/Semaine6/code_max.PNG)
 
 
 ## Semaine 8
