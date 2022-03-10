@@ -290,7 +290,11 @@ Comme dit au paravant le téléphone n'avance pas comme je le voudrais.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Cette semaine, nous rentrons dans le rush de fin donc la productivité est à son maximum.
+- J'ai finaliser le son qui sortira du téléphone
+- Terminer les soudures du téléphone
+- Aide à l'installation de l'horloge
+- Schéma de branchement du nouveau circuit de l'horloge
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -298,7 +302,7 @@ Comme dit au paravant le téléphone n'avance pas comme je le voudrais.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -312,18 +316,20 @@ Comme dit au paravant le téléphone n'avance pas comme je le voudrais.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Tout avance bien mais nous rentrons dans des taches plus techniques. Il est plus difficile de continuer car les choses à faire sortes régulièrement de nos connaissances.
+En plus de cela le stress monte et le temps manque. L'équipe est donc plus sensible au tentions mais nous sommes une équipe soudé et savons comment régler les problèmes
+et s'entraider.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+- Finaliser et tester le plus possibles.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
