@@ -271,7 +271,7 @@ Cette semaine, je me suis chargé de compléter l’introduction, la scène de r
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![Finalisation de la scène d'introduction](medias/MaximeD/Semaine7/intro.png)
+![Finalisation de la scène d'introduction](medias/MaximeD/Semaine7/intro.PNG)
 
 ![Finalisation de la scène de redémarrage](medias/MaximeD/Semaine7/reset.png)
 
