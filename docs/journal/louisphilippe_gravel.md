@@ -233,7 +233,7 @@ Terminer de spatialiser le son dans les haut-parleurs en mettant les sons dans M
 - J'ai fait des tests sur le code du potentiomètre
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![github](medias/LP/Semaine6/son_max.JPG)
+![github](medias/LP/Semaine_rattrapage/son_max.JPG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
