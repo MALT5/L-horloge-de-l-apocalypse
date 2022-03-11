@@ -272,8 +272,9 @@ J'ai terminé presque l'entièreté du code Max, je l'ai adapté à notre nouvea
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![github](medias/LP/Semaine6/code_max.PNG)
-![github](medias/LP/Semaine6/tel_max.PNG)
 ![github](medias/LP/Semaine6/timeline_max.PNG)
+![github](medias/LP/Semaine6/tel_max.PNG)
+
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -284,7 +285,7 @@ J'ai terminé presque l'entièreté du code Max, je l'ai adapté à notre nouvea
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai bien réaliser mes tâches et nous avons très bien avancé en tant qu'équipe. Autant au niveau de la production que de l'installation, tous le monde à respecter ses échéanciers.
+ J'ai bien réaliser mes tâches et nous avons très bien avancé en tant qu'équipe. Autant au niveau de la production que de l'installation, tous le monde a respecté ses échéanciers.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 N/A
