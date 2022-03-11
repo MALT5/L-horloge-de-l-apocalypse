@@ -265,40 +265,43 @@ N/A
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Réalisation d'une trame sonore pour la scène d'intro.
+- Mix de la voix de la narratrice.
+- Réalisation de plusieurs effets sonores tels que les explosions, le téléphone et le missile.
+- Révision des scènes 5, 11 et 12 sur after effects.
+- Aider à réaliser le patch Max8.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Installation](medias/maxime_s/semaine_06/horloge.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Daryl m'a proposé de faire une révision sur les trames sonores des scènes 9 et 11 au sujet de l'intensité des trames.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais tenter de faire des modifications sur ces trames sonores sans les dénaturer.
 
 ### Défis pour la prochaine semaine
-
+- Finaliser l'ensemble de l'installation et des médias du projet.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
