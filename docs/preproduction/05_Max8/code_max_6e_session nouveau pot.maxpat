@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 2195.0, 1290.0 ],
+		"rect" : [ 34.0, 77.0, 2093.0, 1290.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -95,7 +95,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2100.0, 115.0, 50.0, 50.0 ],
-					"text" : "0 time 3960318"
+					"text" : "0 time 71478274"
 				}
 
 			}
@@ -108,7 +108,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2176.292552947998047, 71.212764739990234, 201.0, 36.0 ],
-					"text" : "/m5_ethbtn/malt5/btn 0 time 3960318"
+					"text" : "/m5_ethbtn/malt5/btn 0 time 71478274"
 				}
 
 			}
@@ -843,13 +843,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-144",
-					"linecount" : 3,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 744.377658843994141, 125.118643522262573, 50.0, 50.0 ],
-					"text" : "1 1 0 0 0 0 1 0 0 0 0 0"
+					"patching_rect" : [ 744.377658843994141, 125.118643522262573, 50.0, 22.0 ],
+					"text" : "1"
 				}
 
 			}
@@ -1126,7 +1125,7 @@
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 6480.000000000001819, "ticks" ],
+						"originallength" : [ 58713.600000000013097, "ticks" ],
 						"originaltempo" : 120.000000000000028,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
@@ -1475,8 +1474,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 539.423908233642578, 752.606410980224609, 55.0, 22.0 ],
-					"text" : "del 5000"
+					"patching_rect" : [ 539.423908233642578, 752.606410980224609, 61.0, 22.0 ],
+					"text" : "del 60000"
 				}
 
 			}
@@ -3255,6 +3254,22 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-148", 1 ],
+					"order" : 0,
+					"source" : [ "obj-50", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-55", 0 ],
+					"order" : 1,
+					"source" : [ "obj-50", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-121", 0 ],
 					"source" : [ "obj-52", 1 ]
 				}
@@ -3348,6 +3363,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-10", 0 ],
 					"source" : [ "obj-62", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-62", 0 ],
+					"source" : [ "obj-63", 0 ]
 				}
 
 			}
@@ -3638,118 +3660,9 @@
 				}
 
 			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-148", 1 ],
-					"order" : 0,
-					"source" : [ "obj-50", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-55", 0 ],
-					"order" : 1,
-					"source" : [ "obj-50", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-62", 0 ],
-					"source" : [ "obj-63", 0 ]
-				}
-
-			}
  ],
 		"dependency_cache" : [  ],
-		"autosave" : 0,
-		"snapshot" : 		{
-			"filetype" : "C74Snapshot",
-			"version" : 2,
-			"minorversion" : 0,
-			"name" : "snapshotlist",
-			"origin" : "jpatcher",
-			"type" : "list",
-			"subtype" : "Undefined",
-			"embed" : 1,
-			"snapshot" : 			{
-				"valuedictionary" : 				{
-					"parameter_values" : 					{
-						"Bypass" : 0.0,
-						"DSP" : 1.0,
-						"DSP[1]" : 1.0,
-						"DSP[2]" : 1.0,
-						"Level" : 6.0,
-						"Level[1]" : 0.598425196850386,
-						"Level[2]" : 6.0,
-						"Mute" : 0.0,
-						"Mute[1]" : 0.0,
-						"Mute[2]" : 0.0,
-						"OutputChannel" : 0.0,
-						"OutputChannel[1]" : 0.0,
-						"OutputChannel[2]" : 0.0,
-						"Quadrants" : 0.0,
-						"Response" : 0.0,
-						"live.dial" : 3.0,
-						"live.slider" : 322.0
-					}
-
-				}
-
-			}
-,
-			"snapshotlist" : 			{
-				"current_snapshot" : 0,
-				"entries" : [ 					{
-						"filetype" : "C74Snapshot",
-						"version" : 2,
-						"minorversion" : 0,
-						"name" : "code_max",
-						"origin" : "code_max",
-						"type" : "patcher",
-						"subtype" : "Undefined",
-						"embed" : 1,
-						"fileref" : 						{
-							"name" : "code_max[1]",
-							"filename" : "code_max[1]_20211021.maxsnap",
-							"filepath" : "~/Documents/Max 8/Snapshots",
-							"filepos" : -1,
-							"snapshotfileid" : "6e1ace2974fa3413cf0094c859d83b74"
-						}
-,
-						"snapshot" : 						{
-							"valuedictionary" : 							{
-								"parameter_values" : 								{
-									"Bypass" : 0.0,
-									"DSP" : 1.0,
-									"DSP[1]" : 1.0,
-									"DSP[2]" : 1.0,
-									"Level" : 6.0,
-									"Level[1]" : 0.598425196850386,
-									"Level[2]" : 6.0,
-									"Mute" : 0.0,
-									"Mute[1]" : 0.0,
-									"Mute[2]" : 0.0,
-									"OutputChannel" : 0.0,
-									"OutputChannel[1]" : 0.0,
-									"OutputChannel[2]" : 0.0,
-									"Quadrants" : 0.0,
-									"Response" : 0.0,
-									"live.dial" : 3.0,
-									"live.slider" : 322.0
-								}
-
-							}
-
-						}
-
-					}
- ]
-			}
-
-		}
-
+		"autosave" : 0
 	}
 
 }
