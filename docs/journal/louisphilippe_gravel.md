@@ -268,9 +268,9 @@ Nous allons devoir trouver une solution pour le problème du potentiomètre, fin
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-![github](medias/LP/Semaine6/code_max.png)
-![github](medias/LP/Semaine6/tel_max.png)
-![github](medias/LP/Semaine6/timeline_max.png)
+![github](medias/LP/Semaine6/code_max.PNG)
+![github](medias/LP/Semaine6/tel_max.PNG)
+![github](medias/LP/Semaine6/timeline_max.PNG)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
