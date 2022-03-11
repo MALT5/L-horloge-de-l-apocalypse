@@ -267,39 +267,46 @@ Finaliser la vidéo d’introduction et la scène 12 du projet. Travailler avec 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+Cette semaine, je me suis chargé de compléter l’introduction, la scène de redémarrage, la scène 11 et la scène des crédits. Je me suis chargé que tous les éléments soient bien enchainés et que les transitons soit fluide. J’ai aussi assuré de mettre à jour le OBS afin de rajouter les nouvelles scènes et de modifier certains éléments dans Max pour ajuster les délais des scènes. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Finalisation de la scène d'introduction](medias/MaximeD/Semaine6/pot.png)
 
+![Finalisation de la scène de redémarrage](medias/MaximeD/Semaine6/pot.png)
+
+![Finalisation de la scène 11](medias/MaximeD/Semaine6/pot.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Tous les éléments visuels sont complétés et j’aime beaucoup le résultat. Les transitions sont fluides et il n’y a pas de longueur. En bref, je suis heureux du résultat que j’ai accompli et mes objectifs sont atteints. . 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+Il se peut que je modifie certains éléments pour améliorer les vidéos (polices, grosseur du texte, certains audio).
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Je corrigerai les éléments la semaine prochaine puisqu’il nous reste 1 semaine avant la présentation. 
 
 
 ### Défis pour la prochaine semaine
+Nous devons avoir un prototype fonctionnel qui fonctionne à la perfection. De plus, nous devons corriger les bogues s’il y a lieu. En bref, notre installation multimédia interactive doit être complétée.
 
 ---
 ## Semaine 7
