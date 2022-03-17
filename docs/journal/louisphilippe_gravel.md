@@ -313,6 +313,7 @@ Créer un gate dans le code max pour empêcher l'intéracteur de revenir à la s
 - code max et qlc pour la lumière qui change lors de la scène du téléphone
 - Gate pour empêcher la scène d'intro de s'enclencher lorsqu'on atteint la scène 11
 - Gates pour le bon fonctionnement des scènes en général.
+- Code de la kinect pour la détection de présence.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![github](medias/LP/Semaine7/max.jpg)
