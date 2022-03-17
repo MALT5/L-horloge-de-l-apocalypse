@@ -161,23 +161,23 @@ Nous avons aussi avancé les soudures du téléphone et fait que le lorsque le c
 
 Au cours de cette semaine, nous avons filmé la vidéo explicative du projet et fait le montage de la vidéo que nous devrons présenter au public jeudi soir.
 
-![ici est une description de l'image](medias/collectif/Semaine7/montage.PNG)
+![ici est une description de l'image](medias/collectif/Semaine7/montage.png)
 
 De plus, nous avons percé un trou dans l’horloge afin de créer une barrière physique pour forcer à l’utilisateur à ne pas passer de 11 h à 12 h. 
 
-![ici est une description de l'image](medias/collectif/Semaine7/barriere.JPG)
+![ici est une description de l'image](medias/collectif/Semaine7/barriere.jpg)
 
 Nous avons ressoudé les fils du téléphone afin de les rallonger et permettre une connexion plus optimale. 
 
-![ici est une description de l'image](medias/collectif/Semaine7/fil.JPG)
+![ici est une description de l'image](medias/collectif/Semaine7/fil.jpg)
 
 Nous avons repassé les toiles afin de les étirer et éviter au maximum les plis durant la projection. 
 
-![ici est une description de l'image](medias/collectif/Semaine7/projection.JPG)
+![ici est une description de l'image](medias/collectif/Semaine7/projection.jpg)
 
 Finalement, nous avons réglé les problèmes dans Max à l’aide de « gate » pour prévenir les éventuels bris de l’expérience. Nous avons d’ailleurs rajouté un effet de lumière lorsque le téléphone sonne pour attirer l’utilisateur vers celui-ci.
  
-![ici est une description de l'image](medias/collectif/Semaine7/max.JPG)
+![ici est une description de l'image](medias/collectif/Semaine7/max.jpg)
 
 
 
