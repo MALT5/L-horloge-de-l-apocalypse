@@ -513,7 +513,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1203.042552947998047, 288.719981610774994, 50.0, 22.0 ]
+					"patching_rect" : [ 1191.5, 272.719981610774994, 50.0, 22.0 ]
 				}
 
 			}
@@ -1182,7 +1182,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2100.0, 115.0, 50.0, 50.0 ],
-					"text" : "0 time 99457914"
+					"text" : "0 time 99566466"
 				}
 
 			}
@@ -1195,7 +1195,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 2176.292552947998047, 71.212764739990234, 201.0, 36.0 ],
-					"text" : "/m5_ethbtn/malt5/btn 0 time 99457914"
+					"text" : "/m5_ethbtn/malt5/btn 0 time 99566466"
 				}
 
 			}
@@ -1649,7 +1649,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 394.335105895996094, 110.0, 131.927713871002197, 22.0 ],
-					"text" : "0 0 0 0 0 0 0 0 0 0 0 1"
+					"text" : "0 0 0 0 0 0 0 0 1 0 0 0"
 				}
 
 			}
@@ -1906,13 +1906,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-144",
-					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 744.377658843994141, 125.118643522262573, 50.0, 36.0 ],
-					"text" : "1"
+					"patching_rect" : [ 744.377658843994141, 125.118643522262573, 50.0, 22.0 ],
+					"text" : "0"
 				}
 
 			}
@@ -2189,7 +2188,7 @@
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 58713.600000000020373, "ticks" ],
+						"originallength" : [ 6480.000000000002728, "ticks" ],
 						"originaltempo" : 120.000000000000057,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
