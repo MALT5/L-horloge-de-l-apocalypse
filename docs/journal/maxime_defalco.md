@@ -311,42 +311,45 @@ Nous devons avoir un prototype fonctionnel qui fonctionne à la perfection. De p
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+Tout d’abord, j’ai configuré la caméra pour obtenir les meilleurs paramètres avant le tournage. J’ai ensuite préparé le stabilisateur et tourné un petit extrait de l’expérience. Nous avons ensuite tourné la vidéo explicative du projet et j’ai été responsable de la postproduction et du montage de celle-ci.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Montage de la vidéo explicative du projet](medias/MaximeD/Semaine8/montage.png)
 
+![Tournage avec le stabilisateur](medias/MaximeD/Semaine8/stabilisateur.gif)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je suis fier de la vidéo explicative du projet. La vidéo est simple est les informations sont très concises. De plus, j’ai effectué quelques modifications à la scène d’introduction dans OBS afin de bien jumeler l’audio à la vidéo.   
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
+L’expérience doit être complètement complétée. De plus, devons installer le rideau qui cachera l’ordinateur durant l’expérience. Nous devons nous assurer que tous les éléments non pertinents pour l’expérience soient rangés et ne soient plus dans la pièce. Finalement, nous devrons pratiquer un texte afin de parler au public qui viendra visiter notre expérience.  
+
+---
 
 
-## Semaine 8
 
 
-## Semaine 9
