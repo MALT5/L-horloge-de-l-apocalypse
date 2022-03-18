@@ -305,40 +305,41 @@ Je vais tenter de faire des modifications sur ces trames sonores sans les dénat
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Passer la machine à vapeur sur les toiles de projection afin d'enlever les plis.
+- Faire des retouches finales sur le son qui joue dans le téléphone.
+- Aider à faire le montage de la vidéo de présentation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Installation](medias/collectif/semaine_07/montage.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il reste un seul "bug" qui peut potentiellement altérer l'expérience d'un interacteur.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il faut appliquer un autre "gate" dans le patch Max8.
 
 ### Défis pour la prochaine semaine
-
+Faire les dernières retouches sur l'installation et se préparer à la présentation de l'oeuvre.
 
 ## Semaine 8
 
