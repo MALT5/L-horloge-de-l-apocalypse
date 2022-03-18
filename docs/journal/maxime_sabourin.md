@@ -310,7 +310,7 @@ Je vais tenter de faire des modifications sur ces trames sonores sans les dénat
 - Aider à faire le montage de la vidéo de présentation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![Installation](medias/collectif/semaine_07/montage.png)
+![Installation](medias/collectif/Semaine7/montage.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
