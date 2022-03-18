@@ -295,7 +295,10 @@ N/A
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- cable management
+- rouler les toiles
+- faire du repassage sur les toiles pour enlever les plis
+- tester avec des personnes hors TIM
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -304,31 +307,32 @@ N/A
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+- finir le repassage des toiles
+- plus de drunk testing (si j'ai le temps)
 
 ## Semaine 8
 
