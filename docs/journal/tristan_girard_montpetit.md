@@ -332,16 +332,20 @@ et s'entraider.
 - Finaliser et tester le plus possibles.
 ---
 ## Semaine 7
-### Résumé des réalisations effectuées
-
+### Résumé des réalisations effectuéesà
+Cette semaine, nous avons finaliser le projet.
+- J'ai fini le téléphone
+- Ajouter un stopper à l'horloge
+- Fait le ménage
+- Ajuster les rideaux et repasser
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+(Je n'ai pas vraiment d'image mais je crois que le projet en sois en est une bonne)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -354,7 +358,7 @@ et s'entraider.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -366,7 +370,7 @@ et s'entraider.
 
 
 ### Défis pour la prochaine semaine
-
+-Terminer le projet et le présenter !
 
 ## Semaine 8
 

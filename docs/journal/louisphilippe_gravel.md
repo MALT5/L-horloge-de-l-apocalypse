@@ -309,40 +309,44 @@ Créer un gate dans le code max pour empêcher l'intéracteur de revenir à la s
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Arranger les problèmes dans max qui causaient des bugs et qui empêchaient l'intéracteur d'avancer dans l'expérience. 
+- code max et qlc pour la lumière qui change lors de la scène du téléphone
+- Gate pour empêcher la scène d'intro de s'enclencher lorsqu'on atteint la scène 11
+- Gates pour le bon fonctionnement des scènes en général.
+- Code de la kinect pour la détection de présence.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![github](medias/LP/Semaine7/max.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai bien travaillé dans max avec Daryl pour essayer de débugger la grande majorité des problèmes potentiels que l'intéracteur pourrait rencontrer dans l'expérience. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+N/A
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+N/A
 
 ### Défis pour la prochaine semaine
-
+Bien présenter notre projet et être présent à l'école en cas de besoin ou de bug de l'expérience.
 
 ## Semaine 8
 
