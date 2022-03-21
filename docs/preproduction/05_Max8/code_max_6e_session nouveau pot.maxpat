@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 41.0, 84.0, 2093.0, 1275.0 ],
+		"rect" : [ 41.0, 84.0, 2093.0, 1290.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1649,7 +1649,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 394.335105895996094, 110.0, 131.927713871002197, 22.0 ],
-					"text" : "0 0 0 1 0 0 0 0 0 0 0 0"
+					"text" : "0 0 0 0 0 0 0 0 0 0 1 0"
 				}
 
 			}
@@ -2188,7 +2188,7 @@
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 5760.000000000006366, "ticks" ],
+						"originallength" : [ 31680.000000000032742, "ticks" ],
 						"originaltempo" : 120.000000000000128,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
